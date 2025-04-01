@@ -14,7 +14,7 @@
     - title: Integrated Master of Mathematics (MMath)
       institution: Durham University
       year: 2021 - 2025
-      maindescription: In my fourth year of an integrated master's degree in mathematics with a predicted first class grade. Main pathway involves mathematical physics and fluid dynamics. Involved with the Mathematical Society. Current modules are
+      maindescription: <em>In my fourth year of an integrated master's degree in mathematics with a predicted first class grade. Main pathway involves mathematical physics and fluid dynamics. Involved with the Mathematical Society. Current modules:</em>
       items:
         - Advanced Quantum Theory
         - General Relativity
@@ -26,6 +26,7 @@
   contents:
     - title: The Standard Model from a Symmetry Perspective
       year: 2024 - now
+      maindescription: <em>Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking as part of my MMath research project.</em>
       description:
         - Representation theory
         - Mathematical physics
@@ -33,6 +34,7 @@
 
     - title: <a href='https://chalkdustmagazine.com'>Chalkdust magazine</a>
       year: since 2024
+      maindescription: <em>Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.</em>
       description:
         - <a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>
         - <a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>
@@ -41,69 +43,97 @@
 
     - title: <a href='https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=81fa29e6af1c4c0d'>Chalkboard Ultra podcast</a>
       year: since 2024
+      maindescription: <em>Hosting a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:</em>
       description:
         - <a href='https://open.spotify.com/episode/2ukvpV5tkpyeeRvDLiufhv?si=104ba6e36f634cba'>A Random Walk in the Park</a>
         - <a href='https://open.spotify.com/episode/1BEtZCY1wWQ7PfAOjHyMOG?si=3821408b10f74852'>Swing Batta Batta</a>
         - <a href='https://open.spotify.com/episode/3vXGN12oEVW5Wf6mbg0a3f?si=89a9d56e5e554857'>In Conversation with the MathSoc Presidents</a>
         - <a href='https://open.spotify.com/episode/05SkQbfifvtLHZbzaFxh6g?si=d1ea0496eefa4a06'>Brave New World</a>
 
-- title: Experience
+- title: Work experience
   type: time_table
   contents:
     - title: Bartender
-      institution: Stephenson Central, Durham, UK
+      institution: Stephenson Central
+      location: Durham, UK
       year: 2023 - now
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+      maindescription: <em>Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation.</em>
+    - title: Maths and science tutor
+      institution: <a href='https://www.mytutor.co.uk/tutors/2839462/'>MyTutor.co.uk</a>
+      year: 2023 - now
+      maindescription: <em>Tutoring in a classroom environment via video call and private tutoring with a 100% return business.</em>
+    - title: Summer camp councillor
+      location: Starrucca, PA
+      institution: <a href='https://www.islandlake.com'>Island Lake Camp</a>
+      year: 2023 - now
+      maindescription: <em>Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers as part of the STEM, outdoor adventure and rockshop (music) departments, respectively.</em>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Honors and Awards
+- title: Volunteering
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Maths subject representative
+      institution: <a href='https://stephensonjcr.co.uk/meet-the-reps'>Stephenson College JCR</a>
+      location: Stephenson College
+      year: 2025 - now
+      maindescription: <em>Point of guidance and contact for students regarding mathematical sciences. It is an advisory role for those needing help with exam techniques, module choices and general academic issues.</em>
+    - title: President
+      institution: <a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>
+      location: Josephine Butler College
+      year: 2023 - 2024
+      maindescription: <em>Leading two bands after being the lead pianist for two years and librarian for one year prior. Involved directing rehearsals, booking gigs, organising charity events, overseeing the executive team and managing band finances.</em>
+      description:
+        - Toured Liverpool with concerts at <a href='https://www.liverpoolartsbar.com'>Liverpool Arts Bar</a> and the <a href='https://www.salvationarmy.org.uk/southport'>Southport Salvation Army</a>.
+        - Organised 13 gigs and four charity events throughout the academic year.
+        - Associated with <a href='https://www.instagram.com/butler_jazz_cakes/'>Butler Jazz cakes</a>.
 
-- title: Academic Interests
-  type: nested_list
+- title: Achievements
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2022 - 2025
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 3x College Scholar award from <a href='https://www.durham.ac.uk/colleges-and-student-experience/colleges/stephenson/'>Stephenson College</a>
+        - 3x competitor in <a href='https://www.instagram.com/lemaths2025/'>24 Hours of Le Maths</a>
+    - year: 2020
       items:
-        - Description 1.
-        - Description 2.
+        - Regional finals competitor in the <a href='https://ukmt.org.uk/team-challenges/senior-team-mathematical-challenge'>UKMT senior team maths challenge</a>
+    - year: 2018 - 2019
+      items:
+        - Head Boy at <a href='https://kettlethorpehigh.co.uk'>Kettlethorpe High School</a>
+        - Maureen Winderbank trophy
+        - Younge Award for music
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming:</u> LaTeX (Overleaf/TeXShop), Python, HTML, Desmos, VisualPDE.
+    - <u>Soft skills:</u> Teamwork, problem solving, organisation, data analytics, critical thinking, report writing, presentation skills.
+    - <u>Miscellaneous:</u> Microsoft Excel, Canva, sleight of hand and card magic.
+
+- title: Interests
+  type: nested_list
+  contents:
+    - title: Mathematical sciences
+      items:
+        - Fluid dynamics
+        - Magnetohydrodynamics (MHD)
+        - Quantum field theory (QFT)
+        - Representation theory in particle physics
+        - The Standard Model
+    - title: Music
+      items:
+        - Current lead pianist and keytar player for <a href='https://www.instagram.com/thequantumfunktheory/'>Quantum Funk Theory</a>
+        - Lead pianist turned librarian turned president for <a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>
+    - title: Fitness
+      items:
+        - Regularly attend the gym and trained towards a black belt in Tae Kwon-Do
+        - Enjoy long walks in unspoilt contryside
+
+- title: References
+  type: nested_list
+  contents:
+    - title: <a href='https://www.cranfield.ac.uk/som/people/andrew-hough-30020908'>Andrew Hough</a>
+      items:
+        - Associate professor at Cranfield University. CEO, director and founder of <a href='https://www.the-isp.org'>Institute of Sales Professionals</a> (ISP).
+    - title: <a href='adamtownsend.com'>Dr Adam Townsend</a>
+      items:
+        - Assistant professor at Durham University. Co-founder of <a href='https://chalkdustmagazine.com'><em>Chalkdust</em> magazine</a> and <a href='https://visualpde.com'>VisualPDE</a>.
