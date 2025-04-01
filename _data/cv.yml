@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Sam Kay
+    - name: Label
+      value: Mathematician, freelance musician and private tutor
+    - name: LinkedIn
+      value: <a href='https://linkedin.com/sam-kay'></a>
 
 - title: Education
   type: time_table
