@@ -3,10 +3,10 @@
   contents:
     - name: Name
       value: Sam Kay
-    - name:
+    - name: Label
       value: Mathematician, freelance musician and private tutor
-    - name:
-      value: <a href='https://linkedin.com/sam-kay'> LinkedIn </a>
+    - name: Contact
+      value: <a href='https://linkedin.com/sam-kay'>LinkedIn</a>
 
 - title: Education
   type: time_table
@@ -14,6 +14,8 @@
     - title: Integrated Master of Mathematics (MMath)
       institution: Durham University
       year: 2021 - 2025
+      contents:
+        - title: In my fourth year of an integrated master's degree in mathematics with a predicted first class grade. Main pathway involves mathematical physics and fluid dynamics. Involved with the Mathematical Society. Current modules are
       description:
         - Advanced Quantum Theory
         - General Relativity
@@ -30,9 +32,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Bartender
+      institution: Stephenson Central, Durham, UK
+      year: 2023 - now
       description:
         - Description 1.
         - Description 2.
