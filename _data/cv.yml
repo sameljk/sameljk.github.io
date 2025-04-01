@@ -1,71 +1,72 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
-      value: Sam Kay
-    - name:
-      value: Mathematician, freelance musician and private tutor
-    - name: LinkedIn
-      value: <a href='https://linkedin.com/sam-kay'></a>
-
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Integrated Master of Mathematics (MMath)
-      institution: Durham University
-      year: 2021 - 2025
-      contents:
-        - title: In my fourth year of an integrated master's degree in mathematics with a predicted first class grade. Main pathway involves mathematical physics and fluid dynamics. Involved with the Mathematical Society. Current modules:
-	description:
-	- Advanced Quantum Theory
-	- General Relativity
-	- Geophysical and Astrophysical Fluids
-	- Superstrings
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
-
-- title: Projects
+- title: Experience
   type: time_table
   contents:
-    - title: <em>The Standard Model from a Symmetry Perspective</em>
-      year: 2024 - NOW
-	- title: Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking as part of my MMath research project.
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-	- Representation theory
-	- Mathematical physics
-	- Particle physics
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-	- title: <a href='https://chalkdustmagazine.com'><em>Chalkdust</em> magazine</a>
-	year: 2024 - NOW
-	contents:
-	- title: Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.
-	description:
-	- <a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>
-	- <a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>
-	- <a href='https://chalkdustmagazine.com/regulars/big-argument/the-big-argument-should-we-write-another-issue/'>Should we write another issue?</a>
-	- <a href='https://chalkdustmagazine.com/regulars/big-argument/whats-the-best-way-to-end-a-proof/'>What's the best way to write a proof?</a>
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
 
-- title: Work experience
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
   type: time_table
   contents:
-    - title: Bartender
-      institution: Stephenson Central
-      year: 2023 - NOW
-      description:
-	- Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation.
-    - title: Maths and science tutor
-      institution: MyTutor.co.uk
-      year: 2022 - NOW
-      description:
-        - Tutoring in a classroom environment via video call and private tutoring with a 100% return business.
-
-    - title: Summer camp councillor
-      institution: Island Lake Camp, Starrucca, PA
-      year: Summer 2025
-	description:
-	- Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers as part of the STEM, outdoor adventure and rockshop (music) departments, respectively.
-
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
