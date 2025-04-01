@@ -171,12 +171,12 @@
       "name": "Soft skills",
       "icon": "fa-solid fa-message",
       "keywords": [
-	"Teamwork"
-	"Problem solving"
-	"Organisation"
-	"Data analytics"
-	"Critical thinking"
-	"Report writing"
+	"Teamwork",
+	"Problem solving",
+	"Organisation",
+	"Data analytics",
+	"Critical thinking",
+	"Report writing",
 	"Presentation skills"
       ]
     },
@@ -184,8 +184,8 @@
       "name": "Miscellaneous",
       "icon": "fa-solid fa-hat-wizard",
       "keywords": [
-	"Microsoft Excel"
-	"Canva"
+	"Microsoft Excel",
+	"Canva",
 	"Sleight of hand and card magic"
       ]
     }
@@ -222,13 +222,13 @@
     {
       "name": "Andrew Hough",
       "icon": "fa-solid fa-laptop",
-      "reference": "Associate professor at Cranfield University. CEO, director and founder of <a href='https://www.the-isp.org'>Institute of Sales Professionals</a> (ISP)."
+      "reference": "Associate professor at Cranfield University. CEO, director and founder of <a href='https://www.the-isp.org'>Institute of Sales Professionals</a> (ISP).",
 	"url": "https://www.cranfield.ac.uk/som/people/andrew-hough-30020908"
     },
     {
       "name": "Dr Adam Townsend",
       "icon": "fa-solid fa-calculator",
-      "reference": "Assistant professor at Durham University. Co-founder of <a href='https://chalkdustmagazine.com'><em>Chalkdust</em> magazine</a> and <a href='https://visualpde.com'>VisualPDE</a>."
+      "reference": "Assistant professor at Durham University. Co-founder of <a href='https://chalkdustmagazine.com'><em>Chalkdust</em> magazine</a> and <a href='https://visualpde.com'>VisualPDE</a>.",
 	"url": "adamtownsend.com"
     }
   ]
