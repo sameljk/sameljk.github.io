@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: <em>The Standard Model from a Symmetry Perspective</em>
-      year: 2024 -
+      year: 2024 - NOW
 	- title: Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking as part of my MMath research project.
       description:
 	- Representation theory
@@ -36,7 +36,8 @@
 	- Particle physics
 
 	- title: <a href='https://chalkdustmagazine.com'><em>Chalkdust</em> magazine</a>
-	year: 2024 -
+	year: 2024 - NOW
+	contents:
 	- title: Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.
 	description:
 	- <a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>
@@ -50,18 +51,18 @@
   contents:
     - title: Bartender
       institution: Stephenson Central
-      year: 2023 -
+      year: 2023 - NOW
       description:
 	- Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation.
     - title: Maths and science tutor
       institution: MyTutor.co.uk
-      year: 2022 -
+      year: 2022 - NOW
       description:
         - Tutoring in a classroom environment via video call and private tutoring with a 100% return business.
 
     - title: Summer camp councillor
       institution: Island Lake Camp, Starrucca, PA
-      year: 2023 -
+      year: Summer 2025
 	description:
 	- Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers as part of the STEM, outdoor adventure and rockshop (music) departments, respectively.
 
