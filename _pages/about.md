@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Department of Mathematical Sciences</p>
     <p>Durham University</p>
+    <p>Upper Mountjoy Campus</p>
+    <p>Stockton Road</p>
     <p>DH1 3LE</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

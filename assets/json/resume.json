@@ -48,22 +48,25 @@
       "url": "https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=81fa29e6af1c4c0d"
     }
   ],
-  "work": [
+  "work experience": [
     {
       "name": "Stephenson Central",
       "position": "Bartender",
+      "url": "",
       "startDate": "2023",
       "summary": "Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation."
     },
     {
       "name": "<a href='https://www.mytutor.co.uk/tutors/2839462/'>MyTutor.co.uk</a>",
       "position": "Maths and science tutor",
+      "url": "",
       "startDate": "2022",
       "summary": "Tutoring in a classroom environment via video call and private tutoring with a 100% return business."
     },
     {
       "name": "<a href='https://www.islandlake.com'>Island Lake Camp</a>",
       "position": "Summer camp councillor",
+      "url": "",
       "startDate": "2023",
       "summary": "Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers in various departments:",
       "highlights": ["Summer 2025 in Rockshop", "Summer 2024 in Outdoor Adventure", "Summer 2023 in STEM"]
@@ -72,14 +75,16 @@
   "volunteering": [
     {
       "organization": "<a href='https://stephensonjcr.co.uk/meet-the-reps'>Stephenson College JCR</a>",
-      "location": "Stephenson College",
+      "location": "Stephenson",
+      "url": "",
       "position": "Maths subject representative",
       "startDate": "2025",
       "summary": "Point of guidance and contact for students regarding mathematical sciences. It is an advisory role for those needing help with exam techniques, module choices and general academic issues."
     },
     {
       "organization": "<a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>",
-      "location": "Stephenson College",
+      "location": "Josephine Butler",
+      "url": "",
       "position": "President and lead pianist",
       "startDate": "2023",
       "endDate": "2025",
