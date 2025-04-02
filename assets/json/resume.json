@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "general information": {
     "name": "Sam Kay",
     "label": "Mathematician, freelance musician and private tutor",
     "image": "",
@@ -92,7 +92,7 @@
       "highlights": ["Toured Liverpool with concerts at <a href='https://www.liverpoolartsbar.com'>Liverpool Arts Bar</a> and the <a href='https://www.salvationarmy.org.uk/southport'>Southport Salvation Army</a>", "Organised 13 gigs and four charity events throughout the academic year", "Associated with <a href='https://www.instagram.com/butler_jazz_cakes/'>Butler Jazz cakes</a>"]
     }
   ],
-  "certificates": [
+  "achievements": [
     {
       "name": "3x College Scholar award",
       "date": "2023 - 2025",
