@@ -7,10 +7,11 @@ first_name: Sam
 middle_name:
 last_name: Kay
 contact_note: >
-  Little footnote.
+  Other appearances in the media.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sam Kay's whitespace website.
 footer_text: >
+	Proudly powered by Jekyll.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -186,6 +187,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/profiles.md
@@ -628,18 +630,18 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-#jekyll_get_json:
-#  - data: resume
-  #  json: assets/json/resume.json # it can also be an url
+jekyll_get_json:
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
 
-#jsonresume:
- # - basics
- # - education
- # - projects
- # - work
- # - volunteer
- # - publications
- # - certificates
- # - skills
- # - interests
- # - references
+jsonresume:
+  - basics
+  - education
+  - projects
+  - work
+  - volunteer
+  - certificates
+  - skills
+  - interests
+  - references
+
