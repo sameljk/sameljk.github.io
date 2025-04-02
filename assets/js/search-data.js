@@ -406,7 +406,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-released-episode-33-of-chalkboard-ultra-a-random-walk-in-the-park",
-          title: 'Released episode 33 of Chalkboard Ultra: A Random Walk in the Park',
+          title: 'Released Episode 33 of Chalkboard Ultra : A Random Walk in the Park...',
           description: "",
           section: "News",},{id: "news-launched-issue-21-of-chalkdust-magazine",
           title: 'Launched Issue 21 of Chalkdust magazine',
