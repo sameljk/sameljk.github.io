@@ -21,7 +21,7 @@ github_username: sameljk # your GitHub user name
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 linkedin_username: sam-kay # your LinkedIn user name
-mastodon_username: @samkay@mathstodon.xyz # your mastodon instance+username in the format # instance.tld/@username
+#mastodon_username: '#' # your mastodon instance+username in the format # instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
