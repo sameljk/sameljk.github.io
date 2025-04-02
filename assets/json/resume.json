@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sam Kay",
     "label": "Mathematician, freelance musician and private tutor",
-#    "image": "",
+    "image": "",
     "url": "<a href='https://www.linkedin.com/in/sam-kay/'>LinkedIn</a>",
     "summary": "An incoming PhD student at Durham University, specialising in astrophysical fluid dynamics.",
     "location": {
@@ -31,7 +31,6 @@
       "summary": "Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking. This forms part of my MMath research project under the supervision of Dr Madalena Lemos.",
       "highlights": ["Representation theory", "Mathematical physics", "Particle physics"],
       "startDate": "2024",
-#      "endDate": "2025",
       "url": "https://example.com"
     },
     {
@@ -39,7 +38,6 @@
       "summary": "Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.",
       "highlights": ["<a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>", "<a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/the-big-argument-should-we-write-another-issue/'>Should we write another issue?</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/whats-the-best-way-to-end-a-proof/'>What's the best way to end a proof?</a>"],
       "startDate": "2024",
-#      "endDate": "2025",
       "url": "https://chalkdustmagazine.com"
     },
     {
@@ -47,7 +45,6 @@
       "summary": "Hosting a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:",
       "highlights": ["<a href='https://open.spotify.com/episode/2ukvpV5tkpyeeRvDLiufhv?si=104ba6e36f634cba'>A Random Walk in the Park</a>", "<a href='https://open.spotify.com/episode/1BEtZCY1wWQ7PfAOjHyMOG?si=3821408b10f74852'>Swing Batta Batta</a>", "<a href='https://open.spotify.com/episode/3vXGN12oEVW5Wf6mbg0a3f?si=89a9d56e5e554857'>In Conversation with the MathSoc Presidents</a>", "<a href='https://open.spotify.com/episode/05SkQbfifvtLHZbzaFxh6g?si=d1ea0496eefa4a06'>Brave New World</a>"],
       "startDate": "2023",
-#      "endDate": "2025",
       "url": "https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=81fa29e6af1c4c0d"
     }
   ],
@@ -55,25 +52,19 @@
     {
       "name": "Stephenson Central",
       "position": "Bartender",
-#      "url": "https://example.com",
       "startDate": "2023",
- #     "endDate": "1955-01-01",
       "summary": "Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation."
     },
     {
       "name": "<a href='https://www.mytutor.co.uk/tutors/2839462/'>MyTutor.co.uk</a>",
       "position": "Maths and science tutor",
-#      "url": "https://example.com",
       "startDate": "2022",
- #     "endDate": "1955-01-01",
       "summary": "Tutoring in a classroom environment via video call and private tutoring with a 100% return business."
     },
     {
       "name": "<a href='https://www.islandlake.com'>Island Lake Camp</a>",
       "position": "Summer camp councillor",
-#      "url": "https://example.com",
       "startDate": "2023",
- #     "endDate": "1955-01-01",
       "summary": "Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers in various departments:",
       "highlights": ["Summer 2025 in Rockshop", "Summer 2024 in Outdoor Adventure", "Summer 2023 in STEM"]
     }
@@ -83,16 +74,13 @@
       "organization": "<a href='https://stephensonjcr.co.uk/meet-the-reps'>Stephenson College JCR</a>",
       "location": "Stephenson College",
       "position": "Maths subject representative",
-#      "url": "https://example.com",
       "startDate": "2025",
-#      "endDate": "2015-07-01",
       "summary": "Point of guidance and contact for students regarding mathematical sciences. It is an advisory role for those needing help with exam techniques, module choices and general academic issues."
     },
     {
       "organization": "<a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>",
       "location": "Stephenson College",
       "position": "President and lead pianist",
-#      "url": "https://example.com",
       "startDate": "2023",
       "endDate": "2025",
       "summary": "Leading two bands after being the lead pianist for two years and librarian for one year prior. Involved directing rehearsals, booking gigs, organising charity events, overseeing the executive team and managing band finances.",
