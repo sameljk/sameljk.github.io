@@ -5,7 +5,7 @@
     "image": "",
     "email": "samuel.kay[at]durham.ac.uk",
     "url": "<a href='https://bsky.app/profile/sameljk.bsky.social'>BlueSky</a>, <a href='https://github.com/sameljk'>GitHub</a>, <a href='https://www.linkedin.com/in/sam-kay/'>LinkedIn</a>",
-    "summary": "An incoming PhD student at Durham University, specialising in astrophysical fluid dynamics.",
+    "summary": "An <a href='https://sameljk.github.io/news/phd-accept/'>incoming PhD student</a> at Durham University specialising in astrophysical fluid dynamics.",
     "location": {
       "address": "Department of Mathematical Sciences",
       "postalCode": "DH1 3LE",
@@ -32,21 +32,21 @@
       "summary": "Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking. This forms part of my MMath research project under the supervision of <a href='https://www.durham.ac.uk/staff/madalena-lemos/'>Dr Madalena Lemos</a>.",
       "highlights": ["Representation theory", "Mathematical physics", "Particle physics"],
       "startDate": "2024",
-      "url": "https://sameljk.github.io/projects/"
+      "url": "https://sameljk.github.io/projects/mmath/"
     },
     {
       "name": "Chalkdust magazine",
       "summary": "Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.",
       "highlights": ["<a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>", "<a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/the-big-argument-should-we-write-another-issue/'>Should we write another issue?</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/whats-the-best-way-to-end-a-proof/'>What's the best way to end a proof?</a>"],
       "startDate": "2024",
-      "url": "https://chalkdustmagazine.com"
+      "url": "https://sameljk.github.io/projects/chalkdust/"
     },
     {
       "name": "Chalkboard Ultra podcast",
       "summary": "Hosting a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:",
       "highlights": ["<a href='https://open.spotify.com/episode/2ukvpV5tkpyeeRvDLiufhv?si=104ba6e36f634cba'>A Random Walk in the Park</a>", "<a href='https://open.spotify.com/episode/1BEtZCY1wWQ7PfAOjHyMOG?si=3821408b10f74852'>Swing Batta Batta</a>", "<a href='https://open.spotify.com/episode/3vXGN12oEVW5Wf6mbg0a3f?si=89a9d56e5e554857'>In Conversation with the MathSoc Presidents</a>", "<a href='https://open.spotify.com/episode/05SkQbfifvtLHZbzaFxh6g?si=d1ea0496eefa4a06'>Brave New World</a>"],
       "startDate": "2023",
-      "url": "https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=81fa29e6af1c4c0d"
+      "url": "https://sameljk.github.io/projects/chalkboard/"
     }
   ],
   "work experience": [
@@ -60,7 +60,7 @@
     {
       "name": "MyTutor.co.uk",
       "position": "Maths and science tutor",
-      "url": "https://www.mytutor.co.uk/tutors/2839462/",
+      "url": "https://sameljk.github.io/teaching/",
       "startDate": "2022",
       "summary": "Tutoring in a classroom environment via video call and private tutoring with a 100% return business."
     },

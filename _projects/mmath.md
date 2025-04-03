@@ -2,7 +2,7 @@
 layout: page
 title: MMath research project
 description: The Standard Model from a symmetry perspective.
-img: assets/img/4.jpg
+img: assets/img/mmath/atomonium.jpg
 importance: 1
 category: research
 related_publications: true
@@ -15,7 +15,7 @@ You might think that this would be a very particle physics-heavy project (and it
 I chose this project because it has been a long curiosity of mine to figure what the universe is made from and how everything interacts with each other at a fundamental level.
 Once I found out that beneath all of particle physics is nothing but abstract algebra, I was hooked. I am eternally grateful for [Dr Andreas Braun](https://www.durham.ac.uk/staff/andreas-braun/) who introduced me to this concept during his course on the _Geometry of Mathematical Physics_.
 
-You can read my dissertation by clicking on the PDF button above. A question you might want answering first, however, is what actually _is_ the Standard Model?
+You can read my dissertation by clicking on the PDF button above. A question you might want answering first, though, is what actually _is_ the Standard Model?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
