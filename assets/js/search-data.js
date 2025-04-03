@@ -406,7 +406,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-released-episode-33-of-chalkboard-ultra-a-random-walk-in-the-park",
-          title: 'Released Episode 33 of Chalkboard Ultra : A Random Walk in the Park...',
+          title: 'Released Episode 33 of Chalkboard Ultra: A Random Walk in the Park',
           description: "",
           section: "News",},{id: "news-launched-issue-21-of-chalkdust-magazine",
           title: 'Launched Issue 21 of Chalkdust magazine',
@@ -431,6 +431,11 @@ ninja.data = [{
           description: "The Standard Model from a symmetry perspective.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmath/";
+            },},{id: "projects-quantum-funk-theory",
+          title: 'Quantum Funk Theory',
+          description: "Funk fusion.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/qft/";
             },},{id: "projects-redirection-example",
           title: 'redirection example',
           description: "a project that redirects to another website",
