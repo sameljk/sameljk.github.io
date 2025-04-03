@@ -9,26 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-music",
-          title: "music",
-          description: "A hub for all off my current and past music talent.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/music/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A growing catelogue of projects that I am working on or have worked on previously.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Here is a web description of my CV. You can read on, or download it as a PDF using the button above.",
+        },{id: "nav-music",
+          title: "music",
+          description: "A hub for all off my current and past music talent.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/music/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Here is a web description of my CV. You can read on, or download it as a PDF using the button above.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
