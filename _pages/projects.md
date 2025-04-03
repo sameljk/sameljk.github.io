@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing catelogue of projects that I am working on or have worked on previously.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, outreach, fun]
 horizontal: false
 ---
 
