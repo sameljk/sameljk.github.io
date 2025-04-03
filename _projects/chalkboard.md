@@ -5,7 +5,6 @@ description: A podcast investigating the most interesting concept, problems and 
 img: assets/img/9.jpg
 importance: 1
 category: outreach
-giscus_comments: true
 ---
 
 TODO: set the scene. sam and louie in manchester. what's the background?
