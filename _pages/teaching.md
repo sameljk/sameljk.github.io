@@ -4,9 +4,9 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I tutor..... TOFINISH
 
-Organize your courses by years, topics, or universities, however you like!
+As I progress with more experience, I hope to run tutorials and seminars at the university. Following on from that I would love to have my own lectured course. Only time shall tell how that will go!
