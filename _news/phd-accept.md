@@ -17,7 +17,7 @@ More information on the history/motivation for stuying solar flares can be found
 
 ---
 
-The solar wind is a flux of charged particles emmited by the Sun, causing magnetic turbulence as it radiates through the solar system. This turbelance can be studied, and has been via NASA’s [Parker Solar Probe](https://science.nasa.gov/mission/parker-solar-probe/) (PSP) mission launched in 2018.
+The solar wind is a flux of charged particles emmited by the Sun, causing magnetic turbulence as it radiates through the solar system. This turbulance can be studied, and has been via NASA’s [Parker Solar Probe](https://science.nasa.gov/mission/parker-solar-probe/) (PSP) mission launched in 2018.
 
 The PSP orbits the Sun and will fly as close as within 6.16 million kilometres of its surface in order to better study its structure. Current observations reveal an abundance of so-called [magnetic switchbacks](https://www.nasa.gov/science-research/heliophysics/switchbacks-science-explaining-parker-solar-probes-magnetic-puzzle/) in the wind near to the surface—rapid switches in the surrounding magnetic field that would otherwise be radial.
 
