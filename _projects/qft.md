@@ -6,5 +6,3 @@ img: assets/img/projects/qft.JPG
 importance: 1
 category: current
 ---
-
-TODO

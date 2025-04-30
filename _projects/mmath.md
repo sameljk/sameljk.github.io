@@ -42,17 +42,17 @@ These were later, more aptly named _particles_, which would be held together by 
 
 Another successful approach didn't come until many centuries after, this being that matter could be continuously distributed; that there exist _fields_ permeating space that carry information such as mass, momentum, energy and spin.
 It is hard to pinpoint the origins of this idea exactly since many physicists in the early 20th century were working on this idea, but one notable person to highlight would be Louis de Broglie.
-In 1924, he proposed that electrons (and therefore all `particles' of matter) experienced wave-like behaviour. This paved the way for the earliest theories of quantum mechanics, with Schrödinger in 1926 giving us his equation for how the probability amplitude of a particle's wavefunction changes over time, and then with Dirac in 1928 who aimed for a relativistic wave equation that was specific to fermions like the electron.
+In 1924, he proposed that electrons (and therefore all 'particles' of matter) experienced wave-like behaviour. This paved the way for the earliest theories of quantum mechanics, with Schrödinger in 1926 giving us his equation for how the probability amplitude of a particle's wavefunction changes over time, and then with Dirac in 1928 who aimed for a relativistic wave equation that was specific to fermions like the electron.
 It was then thought these wavefunctions propagate through fields, which began the study of quantum field theory.
 
 One other note is that this description of wave-particle duality has its origins in light. Newton had claimed light showed frequency-like properties and therefore would appear in discrete amounts, but this was contradictory to what Huygens and Young believed in a similar time frame,
 which was that the effects of light mimic that of pebbles thrown in water; ripple-like patterns emerge and their interference increases light intensity.
-Further experiments (such as ones involving the photoelectric effect and double-slit experiment) verified that light exhibits both properties. Although light may naturally exist as waves, its energy is quantised in packets, as particles, called `photons'.
+Further experiments (such as ones involving the photoelectric effect and double-slit experiment) verified that light exhibits both properties. Although light may naturally exist as waves, its energy is quantised in packets, as particles, called 'photons'.
 In was then proposed in theories developed by Faraday and Maxwell that light itself carries the electromagnetic force, and that interactions between charged particles are due to the exchange of photons.
 In this sense we have that the forces between particles are themselves particles, which could alternatively be described via fields.
 
 ---
 
-As it turns out, both the particle and field descriptions of matter and forces are correct. But also neither description is correct. In Leonard Susskind's lecture series on the Standard Model he says ``there are subtleties in the study of quantum physics that satisfy both ideas, but leave some bits of either one unsatisfied''.
+As it turns out, both the particle and field descriptions of matter and forces are correct. But also neither description is correct. In Leonard Susskind's lecture series on the Standard Model he says ''there are subtleties in the study of quantum physics that satisfy both ideas, but leave some bits of either one unsatisfied''.
 It has therefore been desired for a long time for there to exist a natural connection between particles, fields and forces that unifiy all of the theories into one, beautiful <strong>theory of everything</strong>.
 

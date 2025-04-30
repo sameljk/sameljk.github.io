@@ -6,7 +6,7 @@ description: A hub for all off my current and past music talent.
 nav: true
 nav_order: 2
 display_categories: [current,past]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

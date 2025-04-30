@@ -6,5 +6,3 @@ img: assets/img/projects/chalkboard.png
 importance: 1
 category: outreach
 ---
-
-TODO
