@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/news/phd-accept/";
             },},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
-          description: "A podcast investigating the most interesting concept, problems and people in all of mathematics.",
+          description: "A podcast investigating the most interesting concepts, problems and people in all of mathematics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkboard/";
             },},{id: "projects-chalkdust-magazine",
