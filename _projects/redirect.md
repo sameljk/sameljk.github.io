@@ -1,10 +1,10 @@
 ---
 layout: page
-title: redirection example
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: LinkedIn
+description: A quick link to my LinkedIn page.
+img: assets/img/projects/linkedin.jpg
+redirect: https://www.linkedin.com/in/sam-kay/
 importance: 3
-category: fun
+category: outreach
 ---
 

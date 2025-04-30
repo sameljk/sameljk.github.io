@@ -2,10 +2,10 @@
 layout: page
 title: MMath research project
 description: The Standard Model from a symmetry perspective.
-img: assets/img/mmath/atomonium.jpg
+img: assets/img/projects/atomonium.jpg
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 While in my final year of undergraduate study I am researching the symmetries behind the Standard Model of Particle Physics under the supervision of [Dr Madalena Lemos](https://www.durham.ac.uk/staff/madalena-lemos/).
@@ -19,7 +19,7 @@ My dissertation will be published here as a series of lecture notes in due cours
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mmath/standardmodel.png" title="the standard model" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/standardmodel.png" title="the standard model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
