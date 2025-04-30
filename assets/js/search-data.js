@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "A page for my teaching and tutoring.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -90,9 +90,9 @@ ninja.data = [{
           description: "Funk fusion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/qft/";
-            },},{id: "projects-redirection-example",
-          title: 'redirection example',
-          description: "a project that redirects to another website",
+            },},{id: "projects-linkedin",
+          title: 'LinkedIn',
+          description: "A quick link to my LinkedIn page.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/redirect/";
             },},{
