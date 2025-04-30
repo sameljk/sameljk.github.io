@@ -15,79 +15,44 @@ You might think that this would be a very particle physics-heavy project (and it
 I chose this project because it has been a long curiosity of mine to figure what the universe is made from and how everything interacts with each other at a fundamental level.
 Once I found out that beneath all of particle physics is nothing but abstract algebra, I was hooked. I am eternally grateful for [Dr Andreas Braun](https://www.durham.ac.uk/staff/andreas-braun/) who introduced me to this concept during his course on the _Geometry of Mathematical Physics_.
 
-You can read my dissertation by clicking on the PDF button above. A question you might want answering first, though, is what actually _is_ the Standard Model?
+My dissertation will be published here as a series of lecture notes in due course. A question you might want answering in the meantime, though, is what actually _is_ the Standard Model?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mmath/standardmodel.png" title="the standard model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The three fundamental forces. L-R: Stock photos I found of the electromagnetic force, weak nuclear force and strong nuclear force.
+    The Standard Model in all its glory.
 </div>
 
 The Standard Model of Particle Physics is often described as the fundamental theory of Nature. It is, to date, the most successful description of particle physics the modern world has to offer.
-Physically, it is a theory that describes all known fundamental particles and their interactions in terms of relativistic quantum field theories.
-Mathematically, it is a <strong>gauge theory</strong>, a theory of symmetries. It is the culmination of decades of dedicated observation, theory, experiment, and more mathematics than any undergraduate mathematician would like to encounter.
-But why take such a measure to construct a theory of this magnitude?
+In a physical sense it is a theory that describes all known fundamental particles and their interactions in terms of relativistic quantum field theories, that can be (and have been) verified by experiment.
+This fact alone makes the Standard Model seem extremely complicated---and that would be a correct judgement; the Lagrangian for this theory contains at least 74 terms when expanded in the way as in my report.
 
-The question of what _stuff_ is made up of dates back millennia. There have been, in the history of humankind, many schools of thought with how to describe matter with intuition.
-One initially successful idea proposes that matter is discrete, is made up of indivisible parts, aptly named <strong>particles</strong>.
-These particles would be held together and interact via various forces. That then begs the question of how forces come about.
+From a mathematical point of view, one can understand the beginnings of the Standard Model as being reliant on the idea that the spacetime we live in obeys certain symmetries.
+The core aim of the report is to motivate the construction of the Standard Model from the first principles of symmetry, which is known to be the underlying proponent of group theory.
 
-Flash forward some decades and one theorises that matter is continuously distributed; that there exist <strong>fields</strong> permeating space that carry information such as mass, momentum, energy and other such quantities via fluctuations.
-Two fields may lie close to each other (in a strange, internal bundle sense) and interact with one another, creating the illusion of matter interaction and therefore forces.
+> If it were not for these symmetries, the work of science would have to be redone in every new laboratory and in every passing moment.
+> —Stephen Weinberg
 
-As it turns out, both of these descriptions are correct. But also neither description is correct. There are subtleties in the study of quantum physics that satisfy both ideas, but leave some bits of either one unsatisfied.
-It has therefore been desired for a long time for there to exist a natural triangular connection between particles, fields and forces that unifiy the theories.
+Humankind has always been fascinated by what _stuff_ is made up of and the question dates back millennia. In our history there have been many schools of thought as how to describe matter with intuition.
+One initially successful idea led by Leucippus and Democritus proposed that matter is discrete, is made up of indivisible parts, named _atoms_.
+These were later, more aptly named _particles_, which would be held together by and interact via various forces. This theory carried us through classical physics and allowed for the discoveries of various particles, famoulsy the electron by Thompson, the proton by Rutherford and the neutron by Chadwick, etc.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Another successful approach didn't come until many centuries after, this being that matter could be continuously distributed; that there exist _fields_ permeating space that carry information such as mass, momentum, energy and spin.
+It is hard to pinpoint the origins of this idea exactly since many physicists in the early 20th century were working on this idea, but one notable person to highlight would be Louis de Broglie.
+In 1924, he proposed that electrons (and therefore all `particles' of matter) experienced wave-like behaviour. This paved the way for the earliest theories of quantum mechanics, with Schrödinger in 1926 giving us his equation for how the probability amplitude of a particle's wavefunction changes over time, and then with Dirac in 1928 who aimed for a relativistic wave equation that was specific to fermions like the electron.
+It was then thought these wavefunctions propagate through fields, which began the study of quantum field theory.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+One other note is that this description of wave-particle duality has its origins in light. Newton had claimed light showed frequency-like properties and therefore would appear in discrete amounts, but this was contradictory to what Huygens and Young believed in a similar time frame,
+which was that the effects of light mimic that of pebbles thrown in water; ripple-like patterns emerge and their interference increases light intensity.
+Further experiments (such as ones involving the photoelectric effect and double-slit experiment) verified that light exhibits both properties. Although light may naturally exist as waves, its energy is quantised in packets, as particles, called `photons'.
+In was then proposed in theories developed by Faraday and Maxwell that light itself carries the electromagnetic force, and that interactions between charged particles are due to the exchange of photons.
+In this sense we have that the forces between particles are themselves particles, which could alternatively be described via fields.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+As it turns out, both the particle and field descriptions of matter and forces are correct. But also neither description is correct. In Leonard Susskind's lecture series on the Standard Model he says ``there are subtleties in the study of quantum physics that satisfy both ideas, but leave some bits of either one unsatisfied''.
+It has therefore been desired for a long time for there to exist a natural connection between particles, fields and forces that unifiy all of the theories into one, beautiful <strong>theory of everything</strong>.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
