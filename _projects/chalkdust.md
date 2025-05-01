@@ -6,5 +6,3 @@ img: assets/img/projects/chalkdust.png
 importance: 2
 category: outreach
 ---
-
-TODO:
