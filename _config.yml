@@ -9,7 +9,7 @@ last_name: Kay
 contact_note: >
   Other appearances in the media.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Sam Kay's whitespace website.
+  Mathematician. Freelance musician. Private tutor.
 footer_text: >
   Proudly powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> via <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
