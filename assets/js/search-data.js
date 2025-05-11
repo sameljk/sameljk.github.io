@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/debate-20/";
           
         },
+      },{id: "post-counting-down-to-doomsday",
+        
+          title: "Counting down to doomsday",
+        
+        description: "My pit against Matt Enlow in the Big Internet Math-Off 2024.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/math-off/";
+          
+        },
       },{id: "post-what-39-s-the-best-way-to-end-a-proof",
         
           title: "What&#39;s the best way to end a proof?",
