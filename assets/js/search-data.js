@@ -52,18 +52,29 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2024-05-20-debate-19/";
+            window.location.href = "/blog/2025/2024-11-08-debate-20/";
           
         },
-      },{id: "post-should-we-write-another-issue",
+      },{id: "post-",
         
-          title: "Should we write another issue?",
+          title: "",
         
-        description: "This is a regular I wrote against the _Chalkdust_ team for [_Chalkdust_ issue 20](https://chalkdustmagazine.com/read/issue-20/).",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/debate-20/";
+            window.location.href = "/blog/2025/2024-05-20-debate-19/";
+          
+        },
+      },{id: "post-symmetry",
+        
+          title: "Symmetry",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/symmetry/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
