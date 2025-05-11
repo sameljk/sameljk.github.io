@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-a-symmetric-universe",
         
-          title: "",
+          title: "A symmetric universe",
         
-        description: "",
+        description: "An article I wrote for Chalkdust issue 21.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2024-05-20-debate-19/";
+            window.location.href = "/blog/2025/symmetry/";
           
         },
       },{id: "post-should-we-write-another-issue",
@@ -66,15 +66,15 @@ ninja.data = [{
             window.location.href = "/blog/2024/debate-20/";
           
         },
-      },{id: "post-a-symmetric-universe",
+      },{id: "post-what-39-s-the-best-way-to-end-a-proof",
         
-          title: "A symmetric universe",
+          title: "What&#39;s the best way to end a proof?",
         
-        description: "An article I wrote for Chalkdust issue 21.",
+        description: "A regular I wrote against Clare Wallace for Chalkdust issue 19.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/symmetry/";
+            window.location.href = "/blog/2024/debate-19/";
           
         },
       },{id: "news-released-episode-33-of-chalkboard-ultra-a-random-walk-in-the-park",
