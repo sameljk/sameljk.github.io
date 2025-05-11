@@ -31,12 +31,11 @@ During the first year of the podcast we invited a lot of our friends on to talk 
 
 ---
 
-A full list of our episodes on Spotify can be found below*. My personal favourite is Episode #9, where we spoke to the organisers of the annual _24 Hours of Le Maths_ competition.
+A full list of our episodes can be found below*. My personal favourite is Episode #9, where we spoke to the organisers of the annual _24 Hours of Le Maths_ competition.
 It was the most I have ever laughed during a recording and sadly more than half of the conversation had to be cut out (because it was, well, not entirely PG).
-I still have the unreleased file on my computer somewhere as a 'blooper reel', and it got played during the third year of the competition while we were well over sleep deprived.
-I could, of ocurse, talk more about the competition itself, but you can get a better idea by listening to the episode itself!
+I still have the unreleased file on my computer somewhere as a blooper reel, and it got played during the third year of the competition while we were well over sleep deprived.
 
-Louie's favourite episode is a bit more serious, it's Episode #15, which was our leap day 2024 special.
+Louie's favourite episode is a bit more serious, it's Episode #15, which was our leap day 2024 special. It was a very fun discussion on the flaws and quirks of the Gregorian calendar as well as ways to reform it.
 
 ---
 
@@ -54,6 +53,50 @@ We featured in a blog post on [the Aperiodical](https://aperiodical.com), which 
     </div>
     <div class="col-sm mt-3 mt-md-0">
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7oO6CbDCsKJ8Rf8PqkuacC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1vj2CSaFuUS7GV7vCPogUy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3-mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5kJhrGtBuWf8SWavVdXS6S?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oDqI42Q50N5FDvdukvLZS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5c6yiWMqvz4uyzpkrL6OIl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3-mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0vrqbWnYusreOI3fAVQmhg?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dJV0W4z0dzN8CFygNmX1E?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5mwR2KaRkp12uc1ELudQsj?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3-mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57K00fiqBFR3NJ2ylfN689?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0wWebFw9GniXaIevzMsqkL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2zXZLrOBRF6Utbb2GHkAA9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3-mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SUYvFxg3IxGgDEdNiEG7A?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4k8KHS4LAjKfWRLexU9Yha?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
 </div>
 
