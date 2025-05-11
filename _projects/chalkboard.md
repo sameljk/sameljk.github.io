@@ -44,62 +44,14 @@ We featured in a blog post on [the Aperiodical](https://aperiodical.com), which 
 
 ---
 
-$\#1$ -- Shakespeare by Chance {% include audio.liquid path="assets/audio/epicaly-short-113909.mp3" controls=true %}
+Episode 1 -- Shakespeare by Chance <audio controls> 
+        <source src="assets/audio/epicaly-short-113909.mp3" type="audio/mp3"> 
+    </audio> 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3ck1H51nZCUKeslcdb0JFy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3-mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4IKFvZ58wzY5Ak8SIWgrfC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7oO6CbDCsKJ8Rf8PqkuacC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1vj2CSaFuUS7GV7vCPogUy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3-mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5kJhrGtBuWf8SWavVdXS6S?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oDqI42Q50N5FDvdukvLZS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5c6yiWMqvz4uyzpkrL6OIl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3-mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0vrqbWnYusreOI3fAVQmhg?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dJV0W4z0dzN8CFygNmX1E?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5mwR2KaRkp12uc1ELudQsj?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3-mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57K00fiqBFR3NJ2ylfN689?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0wWebFw9GniXaIevzMsqkL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2zXZLrOBRF6Utbb2GHkAA9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3-mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SUYvFxg3IxGgDEdNiEG7A?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4k8KHS4LAjKfWRLexU9Yha?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-</div>
+
+Episode 2 -- A Temporal Perspective <audio controls> 
+        <source src="assets/audio/epicaly-short-113909.mp3" type="audio/mp3"> 
+    </audio> 
+
 
 *Our true fans will recognise the jingle change for each series.
