@@ -13,10 +13,10 @@ To keep up with our schedule and uploads, you can give us a follow on [Instagram
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/firstday-sam" title="sam's first day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/firstday-sam.jpeg" title="sam's first day" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/firstday-louie" title="louie's first day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/firstday-louie.jpeg" title="louie's first day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,6 +45,16 @@ We featured in a blog post on [the Aperiodical](https://aperiodical.com), which 
 
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3ck1H51nZCUKeslcdb0JFy?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3ck1H51nZCUKeslcdb0JFy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3-mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4IKFvZ58wzY5Ak8SIWgrfC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7oO6CbDCsKJ8Rf8PqkuacC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>
 
 *Our true fans will recognise the jingle change for each series.
