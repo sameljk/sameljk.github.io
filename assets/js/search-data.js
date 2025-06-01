@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-symmetric-universe",
+        },{id: "post-how-i-like-my-vector-fields",
+        
+          title: "How I like my vector fields",
+        
+        description: "Want to know the secrets behind my Desmos files?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/vector-fields/";
+          
+        },
+      },{id: "post-a-symmetric-universe",
         
           title: "A symmetric universe",
         
@@ -141,7 +152,7 @@ ninja.data = [{
               window.location.href = "/projects/spherical-vector-field/";
             },},{id: "projects-in-cartesian-coordinates",
           title: 'in Cartesian coordinates',
-          description: "Good for magnetic fields.",
+          description: "Good for vector fields in your favourite coordinate system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vector-field/";
             },},{
