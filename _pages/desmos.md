@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing catelogue of projects that I am working on or have worked on previously.
+title: desmos
+permalink: /desmos/
+description: I make a lot of Desmos files. Here are the ones I'm most proud of. If you have suggestions or improvements, please let me know!
 nav: true
-nav_order: 1
-display_categories: [research, outreach]
+nav_order: 2
+display_categories: [vector fields, case studies, fun]
 horizontal: false
 ---
 

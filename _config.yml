@@ -178,6 +178,7 @@ exclude:
   - _pages/about_einstein.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _pages/music.md
   - _pages/profiles.md
   - _pages/publications.md
   - _pages/repositories.md

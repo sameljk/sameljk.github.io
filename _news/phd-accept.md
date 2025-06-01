@@ -23,23 +23,9 @@ The PSP orbits the Sun and will fly as close as within 6.16 million kilometres o
 
 <strong>Understanding what these are and how they arrive could help us decipher the origins of solar wind</strong>, and better yet help to understand the coronal magnetic field and its impact on the heliosphere.
 
-In the near-Sun environment, one can study the patterns of solar wind via magnetohydrodynamics (MHD). It appears through various studies that certain patches of the solar wind exhibit Alfvénic behaviours—waves with in-phase oscillations of the plasma velocity and magentic field.
-
-[Alfvén waves](https://en.wikipedia.org/wiki/Alfvén_wave), and in particular torsional Alfvén waves, are very well understood, and their evolution within the solar wind could be the key to understanding the origin of switchbacks.
-
-This research project will build upon [work published](https://www.maths.dur.ac.uk/users/peter.f.wyper/examples.html) by Peter himself, who has explored via simulation Alfvén waves launched into the solar wind by intermittent (<em>bursty</em>) interchange reconnection and how they may be related to magnetic switchbacks.
+This research project will build upon [work published](https://www.maths.dur.ac.uk/users/peter.f.wyper/examples.html) by Peter himself, who has explored via simulation [Alfvén waves](https://en.wikipedia.org/wiki/Alfvén_wave) launched into the solar wind by intermittent (<em>bursty</em>) interchange reconnection and how they may be related to magnetic switchbacks.
 
 [A promising explanation](https://iopscience.iop.org/article/10.3847/2041-8213/aca8ae) emerges from a simulation with a specific expanding wind configuration, showing these Alfvén waves becoming steeper as they permeate the solar system. These seem to produce ‘broad’ switchbacks and can survive out to beyond 30 solar radii.
-
----
-
-The key to my research will begin with investigating analytical solutions of magnetic switchbacks in three dimensions and learning to use an appropriate MHD code (namely [ARMS](https://ntrs.nasa.gov/citations/20080031659) or [LARE](https://ascl.net/1208.015)) for future numerical solutions.
-
-With this MHD code I will run test simuations in both two and three dimensions to test theories of the formation and evolutions of switchbacks—this would then be compared with analytical results, and further discussions will be made on the expectations and the significance of newfound data within the model.
-
-I will most likely pursue further formation scenarios and discuss their behaviour based on these investigations. These could include, for example, conducting simulations with waves launched by more realistic processess like interchange reconnection, or investigating the merging of such waves.
-
-Of course, my journey will end with summarising the achievements of the research and published results by writing a PhD thesis.
 
 ---
 
