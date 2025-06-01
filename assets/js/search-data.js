@@ -134,9 +134,9 @@ ninja.data = [{
           description: "A quick link to my LinkedIn page.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/redirect/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-in-spherical-coordinates",
+          title: 'in spherical coordinates',
+          description: "Good for spherically-defined systems, like planets and stars.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spherical-vector-field/";
             },},{id: "projects-in-cartesian-coordinates",
