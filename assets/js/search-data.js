@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-music",
-          title: "music",
-          description: "A hub for all off my current and past music talent.",
+        },{id: "nav-desmos",
+          title: "desmos",
+          description: "I make a lot of Desmos files. Here are the ones I&#39;m most proud of. If you have suggestions or improvements, please let me know!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/music/";
+            window.location.href = "/desmos/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -99,6 +99,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd-accept/";
+            },},{id: "projects-abc-magnetic-field",
+          title: 'ABC magnetic field',
+          description: "Field lines in the presence of the Arnold-Beltrami-Childress field.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/abc-magnetic-field/";
             },},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
           description: "A podcast investigating the most interesting concepts, problems and people in all of mathematics.",
@@ -109,6 +114,11 @@ ninja.data = [{
           description: "A magazine for the mathematically curious.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkdust/";
+            },},{id: "projects-in-cylindrical-coordinates",
+          title: 'in cylindrical coordinates',
+          description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cylindrical-vector-field/";
             },},{id: "projects-mmath-research-project",
           title: 'MMath research project',
           description: "The Standard Model from a symmetry perspective.",
@@ -124,6 +134,16 @@ ninja.data = [{
           description: "A quick link to my LinkedIn page.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/redirect/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spherical-vector-field/";
+            },},{id: "projects-in-cartesian-coordinates",
+          title: 'in Cartesian coordinates',
+          description: "Good for magnetic fields.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vector-field/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
