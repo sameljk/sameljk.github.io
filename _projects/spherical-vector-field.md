@@ -3,6 +3,7 @@ layout: page
 title: in spherical coordinates
 description: Good for spherically-defined systems: planets and stars.
 img:
-importance: 3
+redirect: https://www.desmos.com/3d/j4a9u70ysh
+importance: 2
 category: vector fields
 ---
