@@ -110,7 +110,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd-accept/";
-            },},{id: "projects-abc-magnetic-field",
+            },},{id: "news-released-episode-34-of-chalkboard-ultra-grurple-maths",
+          title: 'Released Episode 34 of Chalkboard Ultra: Grurple Maths',
+          description: "",
+          section: "News",},{id: "news-released-episode-35-of-chalkboard-ultra-deep-dives-in-deep-learning",
+          title: 'Released Episode 35 of Chalkboard Ultra: Deep Dives in Deep Learning',
+          description: "",
+          section: "News",},{id: "projects-abc-magnetic-field",
           title: 'ABC magnetic field',
           description: "Field lines in the presence of the Arnold-Beltrami-Childress field.",
           section: "Projects",handler: () => {
