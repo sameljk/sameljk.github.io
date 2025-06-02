@@ -2,13 +2,13 @@
 layout: page
 title: in Cartesian coordinates
 description: Good for vector fields in your favourite coordinate system.
-img: assets/img/desmos/vector-field
+img: assets/img/desmos/vector-field.png
 importance: 1
 category: vector fields
 ---
 
 > To quickly see the given simulation, click **Run** in the top left corner. 
-> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/w2vam8ckcf).
+> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/gtjbljnaj7).
 
 Below is a Desmos file that will allow you to visualise how any vector field will affect a particle depending on its initial position... and its position thereafter. 
 This particular **Run** action will activite the simulation of the vector field
@@ -19,7 +19,7 @@ $$
 
 in the domain $[-1.5,1.5]$ in all directions.
 
-<embed src="https://www.desmos.com/3d/w2vam8ckcf" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/gtjbljnaj7" style="width:100%; height: 50vw;">
 
 ---
 

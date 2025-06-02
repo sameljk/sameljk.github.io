@@ -2,7 +2,7 @@
 layout: page
 title: in cylindrical coordinates
 description: Good for pipe flows, flow past a cylinder, or anything axisymmetric.
-img: assets/img/desmos/cylindrical-vector-field
+img: assets/img/desmos/cylindrical-vector-field.png
 importance: 2
 category: vector fields
 ---
@@ -67,9 +67,6 @@ $$
 
 <embed src="https://www.desmos.com/3d/ajigrcwaxo" style="width:100%; height: 50vw;">
 
-In both of the above cases, the vector field is periodic in $x$ so that when we hit the boundary, we arrive back at the reflected boundary.
-I have not yet figured out a nice way to do this for the particle trajectory as well as the vector field. If you have a solution, please let me know!
-
 ---
 
 ## Modifying the particle trajectory
@@ -81,6 +78,9 @@ You can then freely run the animation time, coordinate time or **Run** ticker to
 
 You can go one step further (if you are brave) and **trace out the entire trajectory**. To do this, open the **recursive trajectory** folder and navigate down to the "ticker actions" note and consider the three sets $I,J,K$ that follow.
 Change each of the $K_{r},K_{u},K_{z}$ variables to $J_{r},J_{u},J_{z}$. This evaluates the vector field at the a point, and _joins_ it to a list of points. This is what creates the illusion of a traced-out trajectory.
+
+In both of the example cases, the vector field is periodic in $x$ so that when we hit the boundary, we arrive back at the reflected boundary.
+I have not yet figured out a nice way to do this for the particle trajectory as well as the vector field. If you have a solution, please let me know!
 
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: in spherical coordinates
 description: Good for spherically-defined systems, like planets and stars.
-img: assets/img/desmos/spherical-vector-field
+img: assets/img/desmos/spherical-vector-field.png
 importance: 2
 category: vector fields
 ---
@@ -10,11 +10,11 @@ category: vector fields
 > To quickly see the given simulation, click **Run** in the top left corner. 
 > You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/1vdj8gvmgv).
 
-Below is a Desmos file that will allow you to visualise a vector field defined in _cylindrical_ coordinates; all of the motion is defined with respect to a radius $\rho$, equatorial angle $\theta$ and azimuthal angle $\phi$.
+Below is a Desmos file that will allow you to visualise a vector field defined in _spherical_ coordinates; all of the motion is defined with respect to a radius $\rho$, equatorial angle $\theta$ and azimuthal angle $\phi$.
 This particular **Run** action will activite the simulation of the vector field
 
 $$
-\boldsymbol{B} = \left(\tanh(\rho\cos\theta),\sech(\rho\cos\theta),0\right),
+\boldsymbol{B} = \left(\tanh(\rho\cos\theta),\mathrm{sech}(\rho\cos\theta),0\right),
 $$
 
 in the domain $r\in[0,1.5],\theta\in[0,\pi],\phi\in[0,2\pi]$.
