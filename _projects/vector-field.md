@@ -2,13 +2,13 @@
 layout: page
 title: in Cartesian coordinates
 description: Good for vector fields in your favourite coordinate system.
-img:
+img: assets/img/desmos/vector-field
 importance: 1
 category: vector fields
 ---
 
 > To quickly see the given simulation, click **Run** in the top left corner. 
-> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/29ubkqi3mg).
+> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/w2vam8ckcf).
 
 Below is a Desmos file that will allow you to visualise how any vector field will affect a particle depending on its initial position... and its position thereafter. 
 This particular **Run** action will activite the simulation of the vector field
@@ -19,7 +19,7 @@ $$
 
 in the domain $[-1.5,1.5]$ in all directions.
 
-<embed src="https://www.desmos.com/3d/29ubkqi3mg" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/w2vam8ckcf" style="width:100%; height: 50vw;">
 
 ---
 
@@ -34,10 +34,10 @@ Combining these two operations (running $s$ and $t$ at the same time) will show 
 
 ---
 
-## Changing the vector field
+## Try it yourself!
 
 Click on the drop down menu labelled **vector field $\boldsymbol{A}$**. You can set the vector field to be anything you like, as long as it depends on $x,y,z$ and $t$.
-The vector field of the form
+The vector field is of the form
 
 $$
 \boldsymbol{A}(x,y,z) = \left(A_1(x,y,z), A_2(x,y,z), A_3(x,y,z)\right).
@@ -63,7 +63,7 @@ $$
 
 A particle in orange appeared in the initial file---but you may have lost track of it after a certain amount of simulation run time. Fear not! Stop the **Run** ticker, open the **initial position** folder and click the arrow on the left side of $f_{xA}$ to reset the position.
 
-Desmos in 3D does not yet have a function to change a coordinate point dynamically, so to bypass that we must change ecah coordinate with its own slider and then hit the 'reset' arrow after each change.
+Desmos in 3D does not yet have a function to change a coordinate point dynamically, so to bypass that we must change each coordinate with its own slider and then hit the 'reset' arrow after each change.
 You can then freely run the animation time, coordinate time or **Run** ticker to see how that particle moves over time.
 
 You can go one step further (if you are brave) and **trace out the entire trajectory**. To do this, open the **recursive trajectory** folder and navigate down to the "ticker actions" note and consider the three sets $I,J,K$ that follow.
