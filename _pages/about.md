@@ -33,4 +33,4 @@ I am an MMath student in the [Department of Mathematical Sciences](https://www.d
 I co-host the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talk about cool (!) concepts in maths and chat to PhD candiates and lecturers about their research. I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 Above all that, I [private tutor](/teaching/) GCSE and A-Level students.
 
-I play the keytar for [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT) and have led several [jazz bands](https://www.instagram.com/butler_jazz/) while at university. When I find time to practice other instruments I often pick up the piano, ukulele or any type of guitar.
+You can contact me via the links at the bottom of this page. I reply the quickest via email.
