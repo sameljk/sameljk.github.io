@@ -14,7 +14,7 @@ Below is a Desmos file that will allow you to visualise how any vector field wil
 This particular **Run** action will activite the simulation of the vector field
 
 $$
-\boldsymbol{A} = \left(\sin(t)x,\sin(t)y,\cos(t)z\right),
+\boldsymbol{A} = \sin(t)x\boldsymbol{e}_x + \sin(t)y\boldsymbol{e}_y + \cos(t)z\boldsymbol{e}_z,
 $$
 
 in the domain $[-1.5,1.5]$ in all directions.
@@ -40,21 +40,21 @@ Click on the drop down menu labelled **vector field $\boldsymbol{A}$**. You can 
 The vector field is of the form
 
 $$
-\boldsymbol{A}(x,y,z) = \left(A_1(x,y,z), A_2(x,y,z), A_3(x,y,z)\right).
+\boldsymbol{A}(x,y,z) = A_1(x,y,z)\boldsymbol{e}_x + A_2(x,y,z)\boldsymbol{e}_y + A_3(x,y,z)\boldsymbol{e}_z.
 $$
 
 If you are stuck for inspiration you can try some of my simple favourites:
 
 $$
-\boldsymbol{A} = \left(-y,x,0\right)\text{ for a steady 2D circular vector field};
+\boldsymbol{A} = -y\boldsymbol{e}_x + x\boldsymbol{e}_y \text{ for a steady 2D circular vector field};
 $$
 
 $$
-\boldsymbol{A} = \left(y,x,0\right)\text{ for a steady 2D hyperbolic vector field};
+\boldsymbol{A} = y\boldsymbol{e}_x + x\boldsymbol{e}_y \text{ for a steady 2D hyperbolic vector field};
 $$
 
 $$
-\boldsymbol{A} = \left(-y,x,\sin(t)\right)\text{ for a circular field oscillating in the }z\text{-direction}.
+\boldsymbol{A} = -y\boldsymbol{e}_x + x\boldsymbol{e}_y + \sin(t)\boldsymbol{e}_z \text{ for a circular field oscillating in the }z\text{-direction}.
 $$
 
 ---

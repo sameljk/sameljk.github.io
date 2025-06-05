@@ -8,18 +8,18 @@ category: vector fields
 ---
 
 > To quickly see the given simulation, click **Run** in the top left corner. 
-> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/1vdj8gvmgv).
+> You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/xxkcbmmstm).
 
 Below is a Desmos file that will allow you to visualise a vector field defined in _spherical_ coordinates; all of the motion is defined with respect to a radius $\rho$, equatorial angle $\theta$ and azimuthal angle $\phi$.
 This particular **Run** action will activite the simulation of the vector field
 
 $$
-\boldsymbol{B} = \left(\tanh(\rho\cos\theta),\mathrm{sech}(\rho\cos\theta),0\right),
+\boldsymbol{B} = \tanh(\rho\cos\theta)\boldsymbol{e}_r + \mathrm{sech}(\rho\cos\theta)\boldsymbol{e}_\theta,
 $$
 
 in the domain $r\in[0,1.5],\theta\in[0,\pi],\phi\in[0,2\pi]$.
 
-<embed src="https://www.desmos.com/3d/1vdj8gvmgv" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/xxkcbmmstm" style="width:100%; height: 50vw;">
 
 ---
 
@@ -35,7 +35,7 @@ Combining these two operations (running $s$ and $t$ at the same time) will show 
 Oftentimes in more complicated coordinate systems (like this one) we define the vector field via a vector potential $\varphi(\rho,\theta,\phi)$. Our flow can then be defined via
 
 $$
-\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \left(\frac{\partial\varphi}{\partial \rho}, \frac{1}{\rho}\frac{\partial\varphi}{\partial \theta}, \frac{1}{\rho\sin\theta}\frac{\partial\varphi}{\partial \phi}\right).
+\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \frac{\partial\varphi}{\partial \rho}\boldsymbol{e}_r + \frac{1}{\rho}\frac{\partial\varphi}{\partial \theta}\boldsymbol{e}_\theta + \frac{1}{\rho\sin\theta}\frac{\partial\varphi}{\partial \phi}\boldsymbol{e}_\phi.
 $$
 
 ---
@@ -46,18 +46,18 @@ Click on the drop down menu labelled **vector field $\boldsymbol{B}$**. You can 
 The vector field is of the form
 
 $$
-\boldsymbol{B}(\rho,\theta,\phi) = \left(B_1(\rho,\theta,\phi), B_2(\rho,\theta,\phi), B_3(\rho,\theta,\phi)\right).
+\boldsymbol{B}(\rho,\theta,\phi) = B_1(\rho,\theta,\phi)\boldsymbol{e}_r + B_2(\rho,\theta,\phi)\boldsymbol{e}_\theta + B_3(\rho,\theta,\phi)\boldsymbol{e}_\phi.
 $$
 
 If you are stuck for inspiration, here are some premade ones to play with:
 
-> Magnetic dipole about the $z$-axis:
+> [Magnetic dipole](https://en.wikipedia.org/wiki/Magnetic_dipole) about the $z$-axis:
+>
+> $$
+> \boldsymbol{B}(\rho,\theta,\phi) = \frac{1}{4\pi\rho^3}\left(2\cos(\theta)\boldsymbol{e}_r + \sin(\theta) \boldsymbol{e}_\theta\right).
+> $$
 
-$$
-\phi(\rho,\theta,\phi) = \frac{1}{4\pi\rho^3}\left(2\cos\theta,\sin\theta,0\right).
-$$
-
-<embed src="https://www.desmos.com/3d/ljarawsglx" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/8el8wkpskn" style="width:100%; height: 50vw;">
 
 ---
 
@@ -77,7 +77,7 @@ Change each of the $K_{r},K_{u},K_{f}$ variables to $J_{r},J_{u},J_{f}$. This ev
 
 By opening the **variables & comp lists** folder, slide $l$ along to change the length of each plotted vector and slide $T$ to change their tickness. The "trajectory scale" $\sigma$ defines the gap between each time step of the particle's trajectory. You can have more clarity with a smaller scale, but we lose on length.
 
-You can also change the numbers in the $R,\Theta,\Phi$ lists to vary the domain.
+You can also change the numbers in the $R,\Theta,\Phi$ lists to vary the domain. Unfortunately Desmos uses the opposite convention to us; they have $\theta\in[0,2\pi]$ and $\phi\in[0,\pi]$. Be wary of this if you decide to change the domain.
 
 ---
 

@@ -14,7 +14,7 @@ Below is a Desmos file that will allow you to visualise a vector field defined i
 This particular **Run** action will activite the simulation of the vector field
 
 $$
-\boldsymbol{B} = \left(0,\frac{1}{r},0\right),
+\boldsymbol{B} = \frac{1}{r}\boldsymbol{e}_\theta,
 $$
 
 in the domain $r\in[0,1.5],\theta\in[0,2\pi],z\in[1.5,1.5]$.
@@ -35,7 +35,7 @@ Combining these two operations (running $s$ and $t$ at the same time) will show 
 Oftentimes in more complicated coordinate systems (like this one) we define the vector field via a vector potential $\varphi(r,\theta,z)$. Our flow can then be defined via
 
 $$
-\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \left(\frac{\partial\varphi}{\partial r}, \frac{1}{r}\frac{\partial\varphi}{\partial \theta}, \frac{\partial\varphi}{\partial z}\right).
+\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \frac{\partial\varphi}{\partial r}\boldsymbol{e}_r + \frac{1}{r}\frac{\partial\varphi}{\partial \theta}\boldsymbol{e}_\theta + \frac{\partial\varphi}{\partial z}\boldsymbol{e}_z.
 $$
 
 ---
@@ -46,24 +46,24 @@ Click on the drop down menu labelled **vector field $\boldsymbol{B}$**. You can 
 The vector field is of the form
 
 $$
-\boldsymbol{B}(r,\theta,z) = \left(B_1(r,\theta,z), B_2(r,\theta,z), B_3(r,\theta,z)\right).
+\boldsymbol{B}(r,\theta,z) = B_1(r,\theta,z)\boldsymbol{e}_r + B_2(r,\theta,z)\boldsymbol{e}_\theta + B_3(r,\theta,z)\boldsymbol{e}_z.
 $$
 
 If you are stuck for inspiration, here are some premade ones to play with:
 
 > Fluid flow past a static cylinder of radius $a$:
-
-$$
-\varphi(r,\theta,z) = \left(1+\frac{a^2}{r^2}\right)r\cos\theta.
-$$
+>
+> $$
+> \varphi(r,\theta,z) = \left(1+\frac{a^2}{r^2}\right)r\cos\theta.
+> $$
 
 <embed src="https://www.desmos.com/3d/oxjx8kgbuz" style="width:100%; height: 50vw;">
 
 > Fluid flow past a rotating cylinder of radius $a$ and circulation $\Gamma$:
-
-$$
-\varphi(r,\theta,z) = \left(1+\frac{a^2}{r^2}\right)r\cos\theta + \frac{\Gamma}{2\pi}\theta.
-$$
+>
+> $$
+> \varphi(r,\theta,z) = \left(1+\frac{a^2}{r^2}\right)r\cos\theta + \frac{\Gamma}{2\pi}\theta.
+> $$
 
 <embed src="https://www.desmos.com/3d/ajigrcwaxo" style="width:100%; height: 50vw;">
 
