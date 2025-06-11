@@ -45,9 +45,13 @@ $$
 
 If you are stuck for inspiration you can try some of my simple favourites:
 
-$$
-\boldsymbol{A} = -y\boldsymbol{e}_x + x\boldsymbol{e}_y \text{ for a steady 2D circular vector field};
-$$
+> A steady 2D circular vector field:
+>
+> $$
+> \boldsymbol{A} = -y\boldsymbol{e}_x + x\boldsymbol{e}_y
+> $$
+
+<embed src="https://www.desmos.com/3d/n5v9gfzrmi" style="width:100%; height: 50vw;">
 
 $$
 \boldsymbol{A} = y\boldsymbol{e}_x + x\boldsymbol{e}_y \text{ for a steady 2D hyperbolic vector field};
