@@ -28,9 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an MMath student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University. I am studying courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT), with a particular interest in the [construction of the Standard Model](/projects/mmath/).
+I am an MMath graduate from Durham University. I studied courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT), with a particular interest in the [construction of the Standard Model](/projects/mmath/).
 
-I co-host the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talk about cool (!) concepts in maths and chat to PhD candiates and lecturers about their research. I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
-Above all that, I [private tutor](/teaching/) GCSE and A-Level students.
+This October I will be joining the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham for my PhD, specialising in astrophysical fluid dynamics. You can read project specifics [here](https://sam-kay.com/news/phd-accept/).
+
+I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
+
+I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candiates and lecturers about their research. The reins are now in the hands of Cassia Pearce.
 
 You can contact me via the links at the bottom of this page. I reply the quickest via email.

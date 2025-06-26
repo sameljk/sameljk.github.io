@@ -19,7 +19,7 @@ $$
 
 in the domain $[-1.5,1.5]$ in all directions.
 
-<iframe title="Cartesian vector field" style="border:0;width:80%;height:100%;" src="https://www.desmos.com/3d/29ubkqi3mg" frameborder="0"></iframe>
+<iframe title="Cartesian vector field" style="width:100%; height: 50vw;" src="https://www.desmos.com/3d/29ubkqi3mg" frameborder="0"></iframe>
 
 ## How the vector fields are plotted
 

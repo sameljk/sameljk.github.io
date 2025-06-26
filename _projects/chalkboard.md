@@ -7,7 +7,9 @@ importance: 1
 category: outreach
 ---
 
-Chalkboard Ultra is a podcast run by myself and [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/), debuting in October of 2023. Since then we have released 33 episodes (plus one yearly hightlight from the 23/24 academic year), available to listen to on [Spotify](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0), [Apple podcasts](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) and [purpleradio.co.uk](https://www.purpleradio.co.uk).
+Chalkboard Ultra is a podcast that was ran by myself and [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) between October 2023 and July 2025. In that time we released 41 episodes plus two yearly hightlights from each academic year, available to listen to on [Spotify](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0), [Apple podcasts](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) and [purpleradio.co.uk](https://www.purpleradio.co.uk).
+
+The reins have now been handed over to Cassia Pearce, who will continue the podcast during the next academic year.
 
 To keep up with our schedule and uploads, you can give us a follow on [Instagram](https://www.instagram.com/chalkboardultra/) and [BlueSky](https://bsky.app/profile/chalkboardultra.bsky.social).
 
@@ -26,8 +28,8 @@ To keep up with our schedule and uploads, you can give us a follow on [Instagram
 The podcast started when we realised there was a barrier between students and lecturers at university; while they were teaching us content, their real research was hidden 'behind the chalkboard' so to speak.
 Louie and I decided to bring more light around their subjects and provide a space for them to talk about their research and, perhaps more generally, their jouney as an academic.
 
-We often write scripts for some of the 'filler' episodes, which span a variety of maths-related things we find interesting. These include the infinite monkey theorem, how time travel really _is_ possible and why some people believe that numbers can decide our fate.
-During the first year of the podcast we invited a lot of our friends on to talk about some interesting parts of research they have done for their degrees.
+We often wrote scripts for some of the 'filler' episodes, which span a variety of maths-related things we find interesting. These include the infinite monkey theorem, how time travel really _is_ possible and why some people believe that numbers can decide our fate.
+During the first year of the podcast we invited a lot of our friends on to talk about some interesting parts of research they have done for their degrees. This continued in its second year, though with more focus on conversations with lecturers and PhD students.
 
 ---
 

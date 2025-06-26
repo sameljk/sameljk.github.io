@@ -18,18 +18,18 @@
       "institution": "Durham University",
       "location": "Durham, UK",
       "url": "https://www.durham.ac.uk/study/courses/mathematics-g103/",
-      "area": "In my fourth year of an integrated master's degree in mathematics with a predicted first class grade. Main pathway involves mathematical physics and fluid dynamics. Involved with the Mathematical Society. Current modules:",
+      "area": "Graduated with an integrated master's degree in mathematics with Class I. Main pathway involved mathematical physics and fluid dynamics. Involved with the Mathematical Society. Selected modules:",
       "studyType": "Integrated Master of Mathematics (MMath)",
       "startDate": "2021",
       "endDate": "2025",
       "score": "10",
-      "courses": ["Advanced Quantum Theory", "General Relativity", "Geophysical and Astrophysical Fluids", "Superstrings"]
+      "courses": ["Advanced Quantum Theory", "Fluid Mechanics", "General Relativity", "Superstrings"]
     }
   ],
 "projects": [
     {
       "name": "The Standard Model from a Symmetry Perspective",
-      "summary": "Researching the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking. This forms part of my MMath research project under the supervision of <a href='https://www.durham.ac.uk/staff/madalena-lemos/'>Dr Madalena Lemos</a>.",
+      "summary": "Researched the construction of the standard model of particle physics via gauge theories and spontaneous symmetry breaking. This forms part of my MMath research project under the supervision of <a href='https://www.durham.ac.uk/staff/madalena-lemos/'>Dr Madalena Lemos</a>.",
       "highlights": ["Representation theory", "Mathematical physics", "Particle physics"],
       "startDate": "2024",
       "endDate": "2025",
@@ -44,9 +44,10 @@
     },
     {
       "name": "Chalkboard Ultra podcast",
-      "summary": "Hosting a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:",
-      "highlights": ["<a href='https://open.spotify.com/episode/48xjmylO16iaQvaxSKIU6c?si=c1c669444d314c01'>Deep Dives in Deep Learning</a>", "<a href='https://open.spotify.com/episode/4WIblPD2lx6qcbbrTGDdkN?si=15f334521fe443f2'>Grurple Maths</a>", "<a href='https://open.spotify.com/episode/2ukvpV5tkpyeeRvDLiufhv?si=104ba6e36f634cba'>A Random Walk in the Park</a>", "<a href='https://open.spotify.com/episode/1BEtZCY1wWQ7PfAOjHyMOG?si=3821408b10f74852'>Swing Batta Batta</a>"],
+      "summary": "Hosted a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:",
+      "highlights": ["<a href='https://open.spotify.com/episode/06jxNXG6vjBdnt7y58vqDK?si=fd22b58eb65d4e51'>A Statistical Consultation</a>", "<a href='https://open.spotify.com/episode/5Z0BiCh2Wcp0jswy7SKuwi?si=e275cb2036fe4fa1'>Don't Sweat It!</a>", "<a href='https://open.spotify.com/episode/6yZe4b9X4lWHYAhcxbkUPD?si=461a2ec69e5647b9'>Doctor Who?</a>", "<a href='https://open.spotify.com/episode/1H3kUagB81KorC8OlQ69Iz?si=99ffc3a712254f33'>All the World's a Stage</a>"],
       "startDate": "2023",
+      "endDate": "2025",
       "url": "https://sam-kay.com/projects/chalkboard/"
     }
   ],
@@ -56,6 +57,7 @@
       "position": "Bartender",
       "url": "https://www.durham.ac.uk/colleges-and-student-experience/colleges/stephenson/facilities/cafebar/",
       "startDate": "2023",
+      "endDate": "2025",
       "summary": "Responsible for managing the bar through promotions, selling, transactions, stock control and ensuring a smooth operation."
     },
     {

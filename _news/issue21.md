@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Launched [Issue 21](https://chalkdustmagazine.com/read/issue-21/) of <em>Chalkdust</em> magazine
+Launched [Issue 21](https://chalkdustmagazine.com/read/issue-21/) of <em>Chalkdust</em> magazine.
