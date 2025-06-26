@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-i-like-my-vector-fields",
+        },{id: "post-chalkdust-dissertation-prize-2025",
+        
+          title: "Chalkdust dissertation prize 2025",
+        
+        description: "This is your opportunity to get your work published as a Chalkdust article.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chalkdustdissprize/";
+          
+        },
+      },{id: "post-how-i-like-my-vector-fields",
         
           title: "How I like my vector fields",
         
@@ -99,29 +110,44 @@ ninja.data = [{
             window.location.href = "/blog/2024/debate-19/";
           
         },
-      },{id: "news-released-episode-33-of-chalkboard-ultra-a-random-walk-in-the-park",
-          title: 'Released Episode 33 of Chalkboard Ultra: A Random Walk in the Park',
+      },{id: "desmos-abc-magnetic-field",
+          title: 'ABC magnetic field',
+          description: "Field lines in the presence of the Arnold-Beltrami-Childress field.",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/abc-magnetic-field/";
+            },},{id: "desmos-in-cartesian-coordinates",
+          title: 'in Cartesian coordinates',
+          description: "Good for vector fields in your favourite coordinate system.",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/cartesian-vector-field/";
+            },},{id: "desmos-in-cylindrical-coordinates",
+          title: 'in cylindrical coordinates',
+          description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/cylindrical-vector-field/";
+            },},{id: "desmos-in-spherical-coordinates",
+          title: 'in spherical coordinates',
+          description: "Good for spherically-defined systems, like planets and stars.",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/spherical-vector-field/";
+            },},{id: "news-released-series-4-of-chalkboard-ultra-listen-here",
+          title: 'Released Series 4 of Chalkboard Ultra: listen here.',
+          description: "",
+          section: "News",},{id: "news-released-series-5-of-chalkboard-ultra-listen-here",
+          title: 'Released Series 5 of Chalkboard Ultra: listen here.',
           description: "",
           section: "News",},{id: "news-launched-issue-21-of-chalkdust-magazine",
-          title: 'Launched Issue 21 of Chalkdust magazine',
+          title: 'Launched Issue 21 of Chalkdust magazine.',
           description: "",
           section: "News",},{id: "news-accepted-my-offer-to-study-for-a-phd",
           title: 'Accepted my offer to study for a PhD!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd-accept/";
-            },},{id: "news-released-episode-34-of-chalkboard-ultra-grurple-maths",
-          title: 'Released Episode 34 of Chalkboard Ultra: Grurple Maths',
+            },},{id: "news-released-series-6-of-chalkboard-ultra-listen-here",
+          title: 'Released Series 6 of Chalkboard Ultra: listen here.',
           description: "",
-          section: "News",},{id: "news-released-episode-35-of-chalkboard-ultra-deep-dives-in-deep-learning",
-          title: 'Released Episode 35 of Chalkboard Ultra: Deep Dives in Deep Learning',
-          description: "",
-          section: "News",},{id: "projects-abc-magnetic-field",
-          title: 'ABC magnetic field',
-          description: "Field lines in the presence of the Arnold-Beltrami-Childress field.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/abc-magnetic-field/";
-            },},{id: "projects-chalkboard-ultra-podcast",
+          section: "News",},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
           description: "A podcast investigating the most interesting concepts, problems and people in all of mathematics.",
           section: "Projects",handler: () => {
@@ -131,36 +157,16 @@ ninja.data = [{
           description: "A magazine for the mathematically curious.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkdust/";
-            },},{id: "projects-in-cylindrical-coordinates",
-          title: 'in cylindrical coordinates',
-          description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/cylindrical-vector-field/";
             },},{id: "projects-mmath-research-project",
           title: 'MMath research project',
           description: "The Standard Model from a symmetry perspective.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmath/";
-            },},{id: "projects-quantum-funk-theory",
-          title: 'Quantum Funk Theory',
-          description: "Funk fusion.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/qft/";
             },},{id: "projects-linkedin",
           title: 'LinkedIn',
           description: "A quick link to my LinkedIn page.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/redirect/";
-            },},{id: "projects-in-spherical-coordinates",
-          title: 'in spherical coordinates',
-          description: "Good for spherically-defined systems, like planets and stars.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/spherical-vector-field/";
-            },},{id: "projects-in-cartesian-coordinates",
-          title: 'in Cartesian coordinates',
-          description: "Good for vector fields in your favourite coordinate system.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/vector-field/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
