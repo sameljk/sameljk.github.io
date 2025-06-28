@@ -95,7 +95,7 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 ## Series 3
 
-1. The Physicist from Pisa: <a href="https://open.spotify.com/episode/6DkcHObfvqZpwUkU0joZkE?si=76132b42a0704142" style="color:#42b983;">Part 1</a> and <a href="https://open.spotify.com/episode/65rLhOKdzLpFD6L2uzw5uf?si=887ec81163ba4d87" style="color:#05332F;">Part 2</a> (with [Dr Daniele Dorigoni](https://www.durham.ac.uk/staff/daniele-dorigoni/))
+1. The Physicist from Pisa: <a href="https://open.spotify.com/episode/6DkcHObfvqZpwUkU0joZkE?si=76132b42a0704142" style="color:#42b983;">Part 1</a> and <a href="https://open.spotify.com/episode/65rLhOKdzLpFD6L2uzw5uf?si=887ec81163ba4d87" style="color:#42b983;">Part 2</a> (with [Dr Daniele Dorigoni](https://www.durham.ac.uk/staff/daniele-dorigoni/))
 
 2. <a href="https://open.spotify.com/episode/5u25CVkWIq0dq28aaK6QF0?si=142c719405b74fa9" style="color:#42b983;">Sam Shepherd on the Art of Polylogarithms</a>
 

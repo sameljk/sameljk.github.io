@@ -5,9 +5,9 @@
         {%
           include figure.liquid
           loading="eager"
-          path=desmos.img
+          path=project.img
           sizes = "250px"
-          alt="desmos thumbnail"
+          alt="project thumbnail"
           class="card-img-top"
         %}
       {% endif %}
@@ -15,15 +15,15 @@
         <h2 class="card-title">{{ desmos.title }}</h2>
         <p class="card-text">{{ desmos.description }}</p>
         <div class="row ml-1 mr-1 p-0">
-          {% if desmos.github %}
+          {% if project.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ desmos.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
               </div>
-              {% if desmos.github_stars %}
+              {% if project.github_stars %}
                 <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                   <i class="fa-solid fa-star"></i>
-                  <span id="{{ desmos.github_stars }}-stars"></span>
+                  <span id="{{ project.github_stars }}-stars"></span>
                 </span>
               {% endif %}
             </div>
