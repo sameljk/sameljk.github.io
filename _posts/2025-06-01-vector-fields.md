@@ -14,7 +14,7 @@ thumbnail:
 We follow one of the simpler vector fields, like the one shown below. Clicking 'Run' in the top left corner will activite the simulation of the vector field
 
 $$
-\boldsymbol{A} = \left(\sin(t)x,\sin(t)y,\cos(t)z\right),
+\boldsymbol{A} = \sin(t)x\,\boldsymbol{e}_x + \sin(t)y\,\boldsymbol{e}_y + \cos(t)z\,\boldsymbol{e}_z,
 $$
 
 in the domain $[-1.5,1.5]$ in all directions.

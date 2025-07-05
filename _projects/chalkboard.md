@@ -11,7 +11,7 @@ Chalkboard Ultra is a podcast that was ran by myself and [Louie Leventhall](http
 
 > Listen to our podcast for free:
 >
-> [Spotify playlist](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0) | [Apple Podcasts playlist](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) | [Purple Radio](https://www.purpleradio.co.uk)
+> - [Spotify playlist](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0) - [Apple Podcasts playlist](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) - [Purple Radio](https://www.purpleradio.co.uk) -
 >
 > A Spotify link to each episode can be found at the bottom of this page.
 
@@ -150,9 +150,9 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 4. <a href="https://open.spotify.com/episode/5izxLTF8aqyisC38crfZNp?si=2a133b167c23485f" style="color:#42b983;">The (Teaching) Fellowship of the Ring</a> (with [Dr Jamie Mason](https://www.durham.ac.uk/staff/jamie-j-mason/))
 
-5. How Did We Get Here? (with [Dr Sara Uckelman](https://sluckelman.webspace.durham.ac.uk))
+5. <a href="https://open.spotify.com/episode/4cnOmotLg1jTxYTY3Auo0P?si=8f67eec17a314da7" style="color:#42b983;">How Did We Get Here?</a> (with [Dr Sara Uckelman](https://sluckelman.webspace.durham.ac.uk))
 
-6. Chalkboard Ultra's Second Yearly Highlights
+6. <a href="https://open.spotify.com/episode/7ALlM2Q5KArP93EfbmtpWR?si=605d9af6d82d49ec" style="color:#42b983;">Chalkboard Ultra's Second Yearly Highlights</a>
 
 ---
 
