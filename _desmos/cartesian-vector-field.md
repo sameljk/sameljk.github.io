@@ -53,13 +53,21 @@ If you are stuck for inspiration you can try some of my simple favourites:
 
 <embed src="https://www.desmos.com/3d/n5v9gfzrmi" style="width:100%; height: 50vw;">
 
-$$
-\boldsymbol{A} = y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y \text{ for a steady 2D hyperbolic vector field};
-$$
+> A steady 2D hyperbolic vector field:
+>
+> $$
+> \boldsymbol{A} = y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y
+> $$
 
-$$
-\boldsymbol{A} = -y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y + \sin(t)\,\boldsymbol{e}_z \text{ for a circular field oscillating in the }z\text{-direction}.
-$$
+<embed src="https://www.desmos.com/3d/w0s52gxy5c" style="width:100%; height: 50vw;">
+
+> A 2D circular vector field oscillating in the $z$-direction:
+>
+> $$
+> \boldsymbol{A} = -y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y + \sin(t)\,\boldsymbol{e}_z
+> $$
+
+<embed src="https://www.desmos.com/3d/j0ifyw705h" style="width:100%; height: 50vw;">
 
 ---
 

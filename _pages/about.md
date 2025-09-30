@@ -30,9 +30,9 @@ latest_posts:
 
 ---
 
-I am an MMath graduate from Durham University. I studied courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT), with a particular interest in the [construction of the Standard Model](/projects/mmath/).
+I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind. Project specifics: [here](https://sam-kay.com/news/phd-accept/).
 
-This October I will be joining the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham for my PhD, specialising in astrophysical fluid dynamics. Project specifics: [here](https://sam-kay.com/news/phd-accept/).
+I also completed my MMath undergrad at Durham, studying courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT). My dissertation investigated the [construction of the Standard Model](/projects/mmath/) via spontaneous symmetry breaking.
 
 I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 
