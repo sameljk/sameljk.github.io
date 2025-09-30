@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Durham University</p>
+    <p>Room 3015 (Floor 3)</p>
+    <p>Mathematical Sciences and Computer Science Building</p>
     <p>Upper Mountjoy Campus</p>
     <p>Stockton Road</p>
     <p>DH1 3LE</p>
