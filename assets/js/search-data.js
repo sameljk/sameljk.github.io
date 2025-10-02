@@ -131,6 +131,11 @@ ninja.data = [{
           description: "Good for vector fields in your favourite coordinate system.",
           section: "Desmos",handler: () => {
               window.location.href = "/desmos/cartesian-vector-field/";
+            },},{id: "desmos-curl-of-a-field",
+          title: 'curl of a field',
+          description: "Remember Fleming&#39;s left hand rule?",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/curl-of-a-field/";
             },},{id: "desmos-in-cylindrical-coordinates",
           title: 'in cylindrical coordinates',
           description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
