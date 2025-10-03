@@ -23,14 +23,14 @@ horizontal: false
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_desmos %}
+    {% for desmos in sorted_desmos %}
       {% include desmos_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_desmos %}
+    {% for desmos in sorted_desmos %}
       {% include desmos.liquid %}
     {% endfor %}
   </div>
@@ -49,14 +49,14 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_desmos %}
+    {% for desmos in sorted_desmos %}
       {% include desmos_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_desmos %}
+    {% for desmos in sorted_desmos %}
       {% include desmos.liquid %}
     {% endfor %}
   </div>
