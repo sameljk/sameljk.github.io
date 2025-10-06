@@ -9,18 +9,19 @@ nav_order: 3
 
 ## Durham University
 
-I hold tutorials for:
+I am a teaching assistant for:
+
+<ul>
+	<li> MATH3101 <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH3101">Fluid Mechanics III</a> </li>
+</ul>
+
+and hold tutorials for:
 
 <ul>
 	<li> MATH2811 <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2811">Mathematical Methods II</a> </li>
 	<li> MATH2741 <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2741">Methods of Mathematical Physics II</a> </li>
 </ul>
 
-and assist in problem classes for:
-
-<ul>
-	<li> MATH3101 <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH3101">Fluid Mechanics III</a> </li>
-</ul>
 
 ---
 
@@ -28,4 +29,3 @@ and assist in problem classes for:
 
 I tutor maths and sciences for both A-Level and GCSE students via the online tutoring company [MyTutor](http://mytutor.co.uk).
 For all enquiries and direct bookings you can reach me on my [professional profile](https://www.mytutor.co.uk/tutors/2839462/).
-

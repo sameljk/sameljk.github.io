@@ -5,7 +5,7 @@
     "image": "",
     "email": "samuel.kay[at]durham.ac.uk",
     "url": "<a href='https://bsky.app/profile/sameljk.bsky.social'>BlueSky</a>, <a href='https://github.com/sameljk'>GitHub</a>, <a href='https://www.linkedin.com/in/sam-kay/'>LinkedIn</a>",
-    "summary": "An <a href='https://sam-kay.com/news/phd-accept/'>incoming PhD student</a> at Durham University specialising in astrophysical fluid dynamics.",
+    "summary": "A PhD student at Durham University specialising in solar physics and magnetohydrodynamics.",
     "location": {
       "address": "Department of Mathematical Sciences",
       "postalCode": "DH1 3LE",
@@ -17,8 +17,18 @@
     {
       "institution": "Durham University",
       "location": "Durham, UK",
+      "url": "https://www.durham.ac.uk/departments/academic/mathematical-sciences/research/areas/applied-mathematics/",
+      "area": "Working towards a PhD under the supervison of <a href='https://www.maths.dur.ac.uk/users/peter.f.wyper/index.html'>Dr Peter Wyper</a>, researching structures in the solar wind.",
+      "studyType": "Doctor of Philosophy---Mathematical Sciences",
+      "startDate": "2025",
+      "score": "10",
+      "courses": ["Part of the Applied Maths group"]
+    },
+    {
+      "institution": "Durham University",
+      "location": "Durham, UK",
       "url": "https://www.durham.ac.uk/study/courses/mathematics-g103/",
-      "area": "Graduated with an integrated master's degree in mathematics with Class I. Main pathway involved mathematical physics and fluid dynamics. Involved with the Mathematical Society. Selected modules:",
+      "area": "Graduated with an integrated master's degree in mathematics with First Class Honours. Main pathway involved mathematical physics and fluid dynamics. Involved with the Mathematical Society. Selected modules:",
       "studyType": "Integrated Master of Mathematics (MMath)",
       "startDate": "2021",
       "endDate": "2025",
@@ -76,6 +86,14 @@
       "endDate": "2025",
       "summary": "Mentor and councillor for children aged 6-16 at a sleepaway summer camp in Pennsylvania, USA. Worked three summers in various departments:",
       "highlights": ["Summer 2025 in <a href='https://www.islandlake.com/camp-program-activities/activities-at-camp/music.php'>Rockshop</a>", "Summer 2024 in <a href='https://www.islandlake.com/camp-program-activities/activities-at-camp/outdoor-adventure.php'>Outdoor Adventure</a>", "Summer 2023 in <a href='https://www.islandlake.com/camp-program-activities/activities-at-camp/science.php'>STEM</a>"]
+    },
+    {
+      "name": "Durham University",
+      "position": "Undergraduate tutorial leader",
+      "url": "https://www.islandlake.com",
+      "startDate": "2025",
+      "summary": "Assisting undergraduate students with their studies in the form of tutorials; guiding them through chosen problem sheet questions and being a mentor.",
+      "highlights": ["Teaching assistant for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH3101">Fluid Mechanics III</a>", "Tutorial leader for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2811">Mathematical Methods II</a>", "Tutorial lader for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2741">Methods of Mathematical Physics II</a>"]
     }
   ],
   "volunteering": [
@@ -187,6 +205,7 @@
       "keywords": [
         "Fluid dynamics",
         "Magnetohydrodynamics (MHD)",
+        "Solar physics",
         "Quantum field theory (QFT)",
         "Representation theory in particle physics",
         "The Standard Model"
@@ -196,7 +215,8 @@
       "name": "Music",
       "icon": "fa-solid fa-guitar",
       "keywords": [
-        "Current lead pianist and keytar player for <a href='https://www.instagram.com/thequantumfunktheory/'>Quantum Funk Theory</a> (QFT)",
+        "Regular at Durham Jazz Society's jazz jam nights @ Fabio's bar.",
+        "Lead pianist and keytar player for <a href='https://www.instagram.com/thequantumfunktheory/'>Quantum Funk Theory</a> (QFT)",
         "Lead pianist turned librarian turned president for <a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>"
       ]
     },
@@ -213,7 +233,7 @@
     {
       "name": "<a href='https://adamtownsend.com'>Dr Adam Townsend</a>",
       "icon": "fa-solid fa-mug-hot",
-      "reference": "Assistant professor at Durham University. Co-founder of <a href='https://chalkdustmagazine.com'>Chalkdust magazine</a> and <a href='https://visualpde.com'>VisualPDE</a>."
+      "reference": "Associate professor at Durham University. Co-founder of <a href='https://chalkdustmagazine.com'>Chalkdust magazine</a> and <a href='https://visualpde.com'>VisualPDE</a>."
     },
     {
       "name": "<a href='https://www.cranfield.ac.uk/som/people/andrew-hough-30020908'>Andrew Hough</a>",
