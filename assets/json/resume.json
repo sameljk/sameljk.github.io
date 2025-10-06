@@ -90,10 +90,9 @@
     {
       "name": "Durham University",
       "position": "Undergraduate tutorial leader",
-      "url": "https://www.islandlake.com",
       "startDate": "2025",
       "summary": "Assisting undergraduate students with their studies in the form of tutorials; guiding them through chosen problem sheet questions and being a mentor.",
-      "highlights": ["Teaching assistant for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH3101">Fluid Mechanics III</a>", "Tutorial leader for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2811">Mathematical Methods II</a>", "Tutorial lader for <a href="https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2741">Methods of Mathematical Physics II</a>"]
+      "highlights": ["Teaching assistant for <a href='https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH3101'>Fluid Mechanics III</a>", "Tutorial leader for <a href='https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2811'>Mathematical Methods II</a>", "Tutorial lader for <a href='https://apps.dur.ac.uk/faculty.handbook/2025/UG/module/MATH2741'>Methods of Mathematical Physics II</a>"]
     }
   ],
   "volunteering": [
