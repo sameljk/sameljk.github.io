@@ -24,7 +24,7 @@ b_r = -\frac{b_0azL^2}{2H^2}\left(\frac{L\sqrt{\pi}}{r}\mathrm{erf}\left(\frac{r
 $$
 
 $$
-b_{\theta} = +\sqrt{{b_0}^2 - {b_r}^2 - {b_z}^2},
+b_{\theta} = +\sqrt{b_0^2 - b_r^2 - b_z^2},
 $$
 
 $$
