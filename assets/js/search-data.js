@@ -136,6 +136,11 @@ ninja.data = [{
           description: "Remember Fleming&#39;s left hand rule?",
           section: "Desmos",handler: () => {
               window.location.href = "/desmos/curl-of-a-field/";
+            },},{id: "desmos-cylindrical-switchback-solution",
+          title: 'Cylindrical switchback solution',
+          description: "A solution for a magnetic switchback that is cylindrically symmetric.",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/cylindrical-switchback/";
             },},{id: "desmos-in-cylindrical-coordinates",
           title: 'in cylindrical coordinates',
           description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
