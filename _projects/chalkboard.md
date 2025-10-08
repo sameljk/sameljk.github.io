@@ -15,7 +15,7 @@ Chalkboard Ultra is a podcast that was ran by myself and [Louie Leventhall](http
 >
 > A Spotify link to each episode can be found at the bottom of this page.
 
-The reins have now been handed over to Cassia Pearce, who will continue the podcast during the next academic year.
+The reins have now been handed over to [Cassia Pearce](https://sam-kay.com/blog/2025/chalkboard-handover/), who will continue the podcast during the next academic year.
 
 To keep up with our schedule and uploads, you can give us a follow on [Instagram](https://www.instagram.com/chalkboardultra/) and [BlueSky](https://bsky.app/profile/chalkboardultra.bsky.social).
 
@@ -28,7 +28,7 @@ To keep up with our schedule and uploads, you can give us a follow on [Instagram
     </div>
 </div>
 <div class="caption">
-    Me and Louie on our first day of recording; October 25, 2023.
+    Me and Louie on our first day of recording; 25 October 2023.
 </div>
 
 The podcast started when we realised there was a barrier between students and lecturers at university; while they were teaching us content, their real research was hidden 'behind the chalkboard' so to speak.
