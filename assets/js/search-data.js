@@ -44,40 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2025-10-08-chalkboard-handover/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2025-10-07-chalkboard-handover/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2025-06-29-chalkboard-handover/";
-          
-        },
-      },{id: "post-chalkdust-dissertation-prize-2025",
+        },{id: "post-chalkdust-dissertation-prize-2025",
         
           title: "Chalkdust dissertation prize 2025",
         
