@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-chalkboard-ultra-a-new-hope",
         
-          title: "",
+          title: "Chalkboard Ultra... A New Hope",
         
-        description: "",
+        description: "We introduce a new podcast host!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-10-08-chalkboard-handover/";
+            window.location.href = "/blog/2025/chalkboard-handover/";
           
         },
       },{id: "post-chalkdust-dissertation-prize-2025",
