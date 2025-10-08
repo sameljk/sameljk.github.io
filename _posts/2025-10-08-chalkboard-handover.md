@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chalkboard Ultra: A New Hope
+title: Chalkboard Ultra... A New Hope
 description: We introduce a new podcast host!
 date: 2025-10-08
 tags: fun
