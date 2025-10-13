@@ -7,14 +7,14 @@ importance: 2
 category: vector fields
 ---
 
-> To quickly see the given simulation, click **Run** in the top left corner. 
+> To quickly see the given simulation, click **Run** in the top left corner.
 > You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/xxkcbmmstm).
 
 Below is a Desmos file that will allow you to visualise a vector field defined in _spherical_ coordinates; all of the motion is defined with respect to a radius $\rho$, equatorial angle $\theta$ and azimuthal angle $\phi$.
 This particular **Run** action will activite the simulation of the vector field
 
 $$
-\boldsymbol{B} = \tanh(\rho\cos\theta)\,\boldsymbol{e}_r + \mathrm{sech}(\rho\cos\theta)\,\boldsymbol{e}_\theta,
+\boldsymbol{B} = \tanh(\rho\cos\theta)\,\boldsymbol{e}_{\rho} + \mathrm{sech}(\rho\cos\theta)\,\boldsymbol{e}_\theta,
 $$
 
 in the domain $r\in[0,1.5],\theta\in[0,\pi],\phi\in[0,2\pi]$.
@@ -35,7 +35,7 @@ Combining these two operations (running $s$ and $t$ at the same time) will show 
 Oftentimes in more complicated coordinate systems (like this one) we define the vector field via a vector potential $\varphi(\rho,\theta,\phi)$. Our flow can then be defined via
 
 $$
-\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \frac{\partial\varphi}{\partial \rho}\,\boldsymbol{e}_r + \frac{1}{\rho}\frac{\partial\varphi}{\partial \theta}\,\boldsymbol{e}_\theta + \frac{1}{\rho\sin\theta}\frac{\partial\varphi}{\partial \phi}\,\boldsymbol{e}_\phi.
+\boldsymbol{B} = \boldsymbol{\nabla}\varphi = \frac{\partial\varphi}{\partial \rho}\,\boldsymbol{e}_{\rho} + \frac{1}{\rho}\frac{\partial\varphi}{\partial \theta}\,\boldsymbol{e}_\theta + \frac{1}{\rho\sin\theta}\frac{\partial\varphi}{\partial \phi}\,\boldsymbol{e}_\phi.
 $$
 
 ---
@@ -46,15 +46,23 @@ Click on the drop down menu labelled **vector field $\boldsymbol{B}$**. You can 
 The vector field is of the form
 
 $$
-\boldsymbol{B}(\rho,\theta,\phi) = B_1(\rho,\theta,\phi)\,\boldsymbol{e}_r + B_2(\rho,\theta,\phi)\,\boldsymbol{e}_\theta + B_3(\rho,\theta,\phi)\,\boldsymbol{e}_\phi.
+\boldsymbol{B}(\rho,\theta,\phi) = B_1(\rho,\theta,\phi)\,\boldsymbol{e}_{\rho} + B_2(\rho,\theta,\phi)\,\boldsymbol{e}_\theta + B_3(\rho,\theta,\phi)\,\boldsymbol{e}_\phi.
 $$
 
 If you are stuck for inspiration, here are some premade ones to play with:
 
+> Gravitational field of a spherical body, up to a constant:
+>
+> $$
+> \boldsymbol{B}(\rho,\theta,\phi) = -\frac{1}{\rho^2}\boldsymbol{e}_{\rho}.
+> $$
+
+<embed src="https://www.desmos.com/3d/vyxqntjmyk" style="width:100%; height: 50vw;">
+
 > [Magnetic dipole](https://en.wikipedia.org/wiki/Magnetic_dipole) about the $z$-axis:
 >
 > $$
-> \boldsymbol{B}(\rho,\theta,\phi) = \frac{1}{4\pi\rho^3}\left(2\cos(\theta)\,\boldsymbol{e}_r + \sin(\theta) \,\boldsymbol{e}_\theta\right).
+> \boldsymbol{B}(\rho,\theta,\phi) = \frac{1}{4\pi\rho^3}\left(2\cos(\theta)\,\boldsymbol{e}_{\rho} + \sin(\theta) \,\boldsymbol{e}_\theta\right).
 > $$
 
 <embed src="https://www.desmos.com/3d/8el8wkpskn" style="width:100%; height: 50vw;">
