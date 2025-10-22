@@ -133,7 +133,7 @@ ninja.data = [{
               window.location.href = "/desmos/cartesian-vector-field/";
             },},{id: "desmos-curl-of-a-field",
           title: 'curl of a field',
-          description: "Remember Fleming&#39;s left hand rule?",
+          description: "Remember Fleming&#39;s right-hand rule?",
           section: "Desmos",handler: () => {
               window.location.href = "/desmos/curl-of-a-field/";
             },},{id: "desmos-cylindrical-switchback-solution",
