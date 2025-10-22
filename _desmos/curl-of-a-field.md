@@ -1,7 +1,7 @@
 ---
 layout: page
 title: curl of a field
-description: Remember Fleming's left hand rule?
+description: Remember Fleming's right-hand rule?
 img: assets/img/desmos/curl-field.png
 importance: 4
 category: vector fields
@@ -10,14 +10,24 @@ category: vector fields
 > To quickly see the given simulation, click **Run** in the top left corner. 
 > You can copy, edit, modify and have more customisation by opening the file in a new tab [here](https://www.desmos.com/3d/vsgshqbua7).
 
-Below is a Desmos file that will allow you to visualise how any vector field will affect a particle depending on its initial position... and its position thereafter. 
-This particular **Run** action will activite the simulation of the vector field
+Below is a Desmos file that will allow you to visulaise how the [curl of a vector field](https://en.wikipedia.org/wiki/Curl_(mathematics)) is related to the vector field itself. This particular **Run** action will display the curl of the vector field
 
 $$
-\boldsymbol{A} = \sin(t)x\,\boldsymbol{e}_x + \sin(t)y\,\boldsymbol{e}_y + \cos(t)z\,\boldsymbol{e}_z,
+\boldsymbol{A} = -y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y,
 $$
 
-in the domain $[-1.5,1.5]$ in all directions.
+which amounts to
+
+$$
+\boldsymbol{\nabla} \times \boldsymbol{A} = 2\,\boldsymbol{e}_z,
+$$
+
+in the domain $[-1.5,1.5]$ in all directions. If you know anything about electromagnetism, this should feel vaguely familiar; if there is current flow through the wire, it induces a magnetic field that circles around the wire.
+This is the `hand-wavy' equivalent of [Ampère's Law](https://en.wikipedia.org/wiki/Ampère%27s_circuital_law):
+
+$$
+\boldsymbol{\nabla} \times \boldsymbol{B} \propto \boldsymbol{J},\,\,\,\text{ the current density}.
+$$
 
 <embed src="https://www.desmos.com/3d/vsgshqbua7" style="width:100%; height: 50vw;">
 
@@ -57,7 +67,7 @@ You can then freely run the animation time, coordinate time or **Run** ticker to
 You can go one step further (if you are brave) and **trace out the entire trajectory**. To do this, open the **recursive trajectory** folder and navigate down to the "ticker actions" note and consider the three sets $I_C,J_C,K_C$ that follow.
 Change each of the $K_{xC},K_{yC},K_{zC}$ variables to $J_{xC},J_{yC},J_{zC}$. This evaluates the vector field at the a point, and _joins_ it to a list of points. This is what creates the illusion of a traced-out trajectory.
 
-We currently have the **Run** action set up to visualise how the curl of the field affects particle trajectory. If instead you would like to see how the standard field affects the particle trajectory, then remove all fo the "$_C$" subscripts from the **Run** action in the top left corner. It's free, and you can always change your mind by putting the subscripts back.
+We currently have the **Run** action set up to visualise how the curl of the field affects particle trajectory. If instead you would like to see how the standard field affects the particle trajectory, then remove all of the "$_C$" subscripts from the **Run** action in the top left corner. It's free to do, and you can always change your mind by putting the subscripts back.
 
 ---
 
