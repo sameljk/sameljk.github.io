@@ -30,11 +30,22 @@ That is, until our good friend Cassia Pearce came along and said she would be ho
 
 ## About the host
 
-Words...
+I (Cassia Pearce) have hijacked Sam’s blog to tell you a bit about myself! I’m a masters student at Durham, completing my MMath with courses from within pure mathematics, and working on my dissertation, which focuses on [the finite Weil representation](https://www.maths.dur.ac.uk/users/jens.funke/projectIVWeilrep.html). 
 
-Maybe an image?
+When I’m not busy thinking about maths, I’m also president of my college boat club and train in Brazilian Jiu Jitsu. 
 
----
+I made my debut on Chalkboard Ultra in <a href="https://open.spotify.com/episode/3vXGN12oEVW5Wf6mbg0a3f?si=580f40d467ee43ac" style="color:#42b983;">Episode 31</a> to talk about [Durham Mathematical Society](https://www.instagram.com/dumathsoc/), which I was co-president of at the time. It was great fun, so when I was offered the opportunity to host Chalkboard I (of course) accepted! 
+
+I’m looking forward to a great year ahead with Chalkboard Ultra, full of interesting conversations with lecturers about maths, and the _tangents_ it can lead to. (Tangents? Maths? Comedy may not be in my future...)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/cassia.jpeg" title="cassia" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Me at a concert in March 2025!
+</div>
 
 > #### Contact
 >
@@ -49,4 +60,6 @@ Maybe an image?
 
 ## Heading
 
-More words?
+Cassia began recording in November 2025. The episodes will be released on [Spotify](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0), [Apple Podcasts](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) and [Purple Radio](https://www.purpleradio.co.uk). The schedule at the bottom of my [projects page](https://sam-kay.com/projects/chalkboard/) will also be updated periodically.
+
+I am really looking forward to seeing what Cassia does with the podcast and I wish her the best of luck!
