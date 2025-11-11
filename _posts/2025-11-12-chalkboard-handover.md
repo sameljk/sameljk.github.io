@@ -2,7 +2,7 @@
 layout: post
 title: Chalkboard Ultra... A New Hope
 description: We introduce a new podcast host!
-date: 2025-10-08
+date: 2025-11-12
 tags: fun
 related_posts: false
 thumbnail: assets/img/projects/chalkboard.png
@@ -57,8 +57,6 @@ I’m looking forward to a great year ahead with Chalkboard Ultra, full of inter
 {: .block-tip }
 
 ---
-
-## Heading
 
 Cassia began recording in November 2025. The episodes will be released on [Spotify](https://open.spotify.com/playlist/75eCpgJtnLeW2JDWZABrsE?si=e31b3d6e893644c0), [Apple Podcasts](https://podcasts.apple.com/gb/podcast/purple-radio-on-demand/id1485160591) and [Purple Radio](https://www.purpleradio.co.uk). The schedule at the bottom of my [projects page](https://sam-kay.com/projects/chalkboard/) will also be updated periodically.
 
