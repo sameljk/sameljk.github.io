@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-chalkdust-dissertation-prize-2025",
+        },{id: "post-chalkdust-dissertation-prize-winner-2025",
+        
+          title: "Chalkdust dissertation prize winner 2025",
+        
+        description: "Hannah Woods shares her experience as this year&#39;s dissertation prize winner.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dissprizewinner/";
+          
+        },
+      },{id: "post-chalkboard-ultra-a-new-hope",
+        
+          title: "Chalkboard Ultra... A New Hope",
+        
+        description: "We introduce a new podcast host!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chalkboard-handover/";
+          
+        },
+      },{id: "post-chalkdust-dissertation-prize-2025",
         
           title: "Chalkdust dissertation prize 2025",
         
@@ -156,6 +178,9 @@ ninja.data = [{
               window.location.href = "/news/phd-accept/";
             },},{id: "news-released-series-6-of-chalkboard-ultra-listen-here",
           title: 'Released Series 6 of Chalkboard Ultra: listen here.',
+          description: "",
+          section: "News",},{id: "news-launched-issue-22-of-chalkdust-magazine",
+          title: 'Launched Issue 22 of Chalkdust magazine.',
           description: "",
           section: "News",},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
