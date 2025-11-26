@@ -154,6 +154,11 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 6. <a href="https://open.spotify.com/episode/7ALlM2Q5KArP93EfbmtpWR?si=605d9af6d82d49ec" style="color:#42b983;">Chalkboard Ultra's Second Yearly Highlights</a>
 
+
+## Series 7
+
+1. <a href="https://open.spotify.com/episode/3tjRH0nVFnb1IquDadhRp1?si=21be2aa45a1d4ac8" style="color:#42b983;">You're Not in Kansas Anymore</a> (with [Dr Sophy Darwin](https://www.durham.ac.uk/staff/s-k-darwin/))
+
 ---
 
 *Our true fans will recognise the jingle change for each series.
