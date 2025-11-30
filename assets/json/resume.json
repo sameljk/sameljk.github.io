@@ -1,6 +1,6 @@
 {
   "general information": {
-    "name": "Sam Kay",
+    "name": "Sam Kay AMIMA",
     "label": "Mathematician, freelance musician and private tutor",
     "image": "",
     "email": "samuel.kay[at]durham.ac.uk",
@@ -22,7 +22,7 @@
       "studyType": "Doctor of Philosophy---Mathematical Sciences",
       "startDate": "2025",
       "score": "10",
-      "courses": ["Part of the Applied Maths group"]
+      "courses": ["Member of the <a href='https://www.durham.ac.uk/departments/academic/mathematical-sciences/research/areas/applied-mathematics/'>Applied Maths group</a>"]
     },
     {
       "institution": "Durham University",
@@ -48,14 +48,14 @@
     {
       "name": "Chalkdust magazine",
       "summary": "Writing and editing for a popular maths magazine that is distributed nationally among universities. I sometimes go by the cryptic setter name <strong>Seuss</strong>.",
-      "highlights": ["<a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>", "<a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/the-big-argument-should-we-write-another-issue/'>Should we write another issue?</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/whats-the-best-way-to-end-a-proof/'>What's the best way to end a proof?</a>"],
+      "highlights": ["<a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-22/'>Cryptic crossword, Issue 22</a>", "<a href='https://chalkdustmagazine.com/features/a-symmetric-universe/'>A symmetric universe</a>", "<a href='https://chalkdustmagazine.com/regulars/cryptic/cryptic-crossword-issue-20/'>Cryptic crossword, Issue 20</a>", "<a href='https://chalkdustmagazine.com/regulars/big-argument/the-big-argument-should-we-write-another-issue/'>Should we write another issue?</a>"],
       "startDate": "2024",
       "url": "https://chalkdustmagazine.com"
     },
     {
       "name": "Chalkboard Ultra podcast",
-      "summary": "Hosted a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most recent episodes:",
-      "highlights": ["<a href='https://open.spotify.com/episode/7ALlM2Q5KArP93EfbmtpWR?si=4f8f35036d7746ad'>Chalkboard Ultra's Second Yearly Higlights</a>", "<a href='https://open.spotify.com/episode/4cnOmotLg1jTxYTY3Auo0P?si=3bd5ed3c8630463e'>How Did We Get Here?</a>", "<a href='https://open.spotify.com/episode/5izxLTF8aqyisC38crfZNp?si=ddc16035f57a4053'>The (Teaching) Fellowship of the Ring</a>", "<a href='https://open.spotify.com/episode/06jxNXG6vjBdnt7y58vqDK?si=fd22b58eb65d4e51'>A Statistical Consultation</a>"],
+      "summary": "Hosted a podcast bringing light to all areas of maths with conversations among peers, PhD students and lecturers at the university. Most popular episodes:",
+      "highlights": ["<a href='https://open.spotify.com/episode/4cnOmotLg1jTxYTY3Auo0P?si=3bd5ed3c8630463e'>How Did We Get Here?</a>", "<a href='https://open.spotify.com/episode/65rLhOKdzLpFD6L2uzw5uf?si=78db7e8737384e51'>The Physicist from Pisa: Part 2</a>", "<a href='https://open.spotify.com/episode/3dJV0W4z0dzN8CFygNmX1E?si=ded9fd063eb14dad'>Maths on the Podium</a>", "<a href='https://open.spotify.com/episode/1vj2CSaFuUS7GV7vCPogUy?si=74f7bfa299204ef1'>Maths in Motion</a>"],
       "startDate": "2023",
       "endDate": "2025",
       "url": "https://sam-kay.com/projects/chalkboard/"
@@ -165,9 +165,11 @@
       "level": "Master",
       "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "LaTeX (Overleaf/TeXShop)",
+        "LaTeX (Overleaf/TeXShop/TeXStudio)",
         "Python",
         "HTML",
+	"Markdown",
+	"Maple",
         "Desmos",
         "VisualPDE"
       ]
@@ -214,7 +216,7 @@
       "name": "Music",
       "icon": "fa-solid fa-guitar",
       "keywords": [
-        "Regular at Durham Jazz Society's jazz jam nights @ Fabio's bar.",
+        "Regular at Durham Jazz Society's jazz jam nights @ Fabio's bar",
         "Lead pianist and keytar player for <a href='https://www.instagram.com/thequantumfunktheory/'>Quantum Funk Theory</a> (QFT)",
         "Lead pianist turned librarian turned president for <a href='https://www.instagram.com/butler_jazz/'>Butler Jazz</a> and <a href='https://www.instagram.com/butler_soul_band/'>Butler Soul Band</a>"
       ]
@@ -225,6 +227,14 @@
       "keywords": [
         "Regularly attend the gym and trained towards a black belt in Tae Kwon-Do",
         "Enjoy long walks in unspoilt contryside"
+      ]
+    },
+{
+      "name": "Outreach",
+      "icon": "fa-solid fa-comments",
+      "keywords": [
+        "Associate member of the <a href='https://ima.org.uk'>Institute of Mathematics and its Applications</a> (IMA)",
+        "Annual attendee of the <a href='https://mathsjam.com'>MathsJam</a> UK Gathering (Big MathsJam)"
       ]
     }
   ],
