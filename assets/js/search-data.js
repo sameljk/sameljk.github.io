@@ -231,6 +231,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/sam-kay", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0005-4011-3637", "_blank");
+        },
+      },{
         id: 'social-spotify',
         title: 'Spotify',
         section: 'Socials',
