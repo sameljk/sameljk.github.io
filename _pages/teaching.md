@@ -27,5 +27,6 @@ and hold tutorials for:
 
 ## Private tutoring
 
-I tutor maths and sciences for both A-Level and GCSE students via the online tutoring company [MyTutor](http://mytutor.co.uk).
-For all enquiries and direct bookings you can reach me on my [professional profile](https://www.mytutor.co.uk/tutors/2839462/).
+From time to time I do private tutoring. I spent four years with the online tutoring company [MyTutor](http://mytutor.co.uk), but am now better suited to a self-sufficient system on a word-of-mouth basis.
+
+For bookings via MyTutor click [here](https://www.mytutor.co.uk/tutors/2839462/). For all other enquiries email me at <a href='mailto:samkay.tutoring@gmail.com'>samkay.tutoring[at]gmail.com</a>.
