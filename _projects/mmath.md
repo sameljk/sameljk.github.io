@@ -3,7 +3,7 @@ layout: page
 title: MMath research project
 description: The Standard Model from a symmetry perspective.
 img: assets/img/projects/atomonium.jpg
-importance: 1
+importance: 2
 category: research
 related_publications: false
 ---

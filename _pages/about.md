@@ -31,12 +31,12 @@ latest_posts:
 
 ---
 
-I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind. Project specifics: [here](https://sam-kay.com/news/phd-accept/).
+I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind. Project specifics: [here](/projects/#research).
 
 I also completed my MMath undergrad at Durham, studying courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT). My dissertation investigated the [construction of the Standard Model](/projects/mmath/) via spontaneous symmetry breaking.
 
 I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 
-I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candiates and lecturers about their research. The reins are now in the hands of Cassia Pearce.
+I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candiates and lecturers about their research. The reins are now in the hands of [Cassia Pearce](/blog/2025/chalkboard-handover/).
 
-During the summers I haved worked as a STEM, Outdoor Adventure and Rockshop counsellor at a children's summer camp in Pennsylvania, USA. I have been the lead pianist and keytar player in various bands, most recently in [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT).
+During the summers I haved work as a counsellor at a children's summer camp in Pennsylvania, USA. I have been the lead pianist and keytar player in various bands, most recently in [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT).
