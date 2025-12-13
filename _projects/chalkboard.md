@@ -159,6 +159,8 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 1. <a href="https://open.spotify.com/episode/3tjRH0nVFnb1IquDadhRp1?si=21be2aa45a1d4ac8" style="color:#42b983;">You're Not in Kansas Anymore</a> (with [Dr Sophy Darwin](https://www.durham.ac.uk/staff/s-k-darwin/))
 
+2. <a href="https://open.spotify.com/episode/7fyxxy8X0DBTz46F6TngXt?si=e2a8c685238841ee" style="color:#42b983;">P is for People... and Plankton</a> (with [Dr Rachel Oughton](https://www.durham.ac.uk/departments/academic/science/outreach-and-engagement/du-science-100/100-faces-of-science/uncertainty-quantification/rachel-oughton/))
+
 ---
 
 *Our true fans will recognise the jingle change for each series.
