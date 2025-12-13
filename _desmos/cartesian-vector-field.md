@@ -51,7 +51,7 @@ If you are stuck for inspiration you can try some of my simple favourites:
 > \boldsymbol{A} = -y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y
 > $$
 
-<embed src="https://www.desmos.com/3d/n5v9gfzrmi" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/jfjk7fizdu" style="width:100%; height: 50vw;">
 
 > A steady 2D hyperbolic vector field:
 >
@@ -59,7 +59,7 @@ If you are stuck for inspiration you can try some of my simple favourites:
 > \boldsymbol{A} = y\,\boldsymbol{e}_x + x\,\boldsymbol{e}_y
 > $$
 
-<embed src="https://www.desmos.com/3d/w0s52gxy5c" style="width:100%; height: 50vw;">
+<embed src="https://www.desmos.com/3d/bdhb6zcwst" style="width:100%; height: 50vw;">
 
 > A 2D circular vector field oscillating in the $z$-direction:
 >

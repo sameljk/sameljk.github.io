@@ -21,11 +21,8 @@ When and if new space missions are launched, we better hope that they are protec
 
 Any further advances in this project will be documented here.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/gif/switchbacks.gif" title="switchbacks on the sun" class="img-fluid rounded z-depth-1" style="width:100%; height: 50vw;" %}
-    </div>
-</div>
+<img src="assets/video/gif/switchbacks.gif" title="switchbacks on the sun" width="100" height="50">
+
 <div class="caption">
     By NASA's Goddard Space Flight Center/Conceptual Image Lab/Adriana Manrique Gutierrez.
 </div>
