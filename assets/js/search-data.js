@@ -157,6 +157,11 @@ ninja.data = [{
           description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
           section: "Desmos",handler: () => {
               window.location.href = "/desmos/cylindrical-vector-field/";
+            },},{id: "desmos-how-does-this-work",
+          title: 'How does this work?',
+          description: "",
+          section: "Desmos",handler: () => {
+              window.location.href = "/desmos/explanation/";
             },},{id: "desmos-in-spherical-coordinates",
           title: 'in spherical coordinates',
           description: "Good for spherically-defined systems, like planets and stars.",
