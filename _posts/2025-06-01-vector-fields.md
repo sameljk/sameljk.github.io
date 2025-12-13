@@ -25,7 +25,7 @@ in the domain $[-1.5,1.5]$ in all directions.
 
 ## How the vector fields are plotted
 
-The vector field is plotted under the hood of the *vector field $\boldsymbol{A}$ plot* folder. You can freely change what kind of vector field you are playing with by changing the functions within the simulation:
+The vector field is plotted under the hood of the **vector field $\boldsymbol{A}$ plot** folder. You can freely change what kind of vector field you are playing with by changing the functions within the simulation:
 
 $$
 \boldsymbol{A} = A_x(x,y,z)\,\boldsymbol{e}_x + A_y(x,y,z)\,\boldsymbol{e}_y + A_z(x,y,z)\,\boldsymbol{e}_z.
@@ -34,7 +34,7 @@ $$
 At each coordinate $\boldsymbol{x}=(x,y,z)$, a vector field tells the coordinate where to move to in 3D space. In order to draw this we make use of the built-in Desmos <code>vector</code> tool that will draw a straight line from point $\boldsymbol{x}_1$ to $\boldsymbol{x}_2$ as such:
 
 $$
-\text{vector}(\boldsymbol(x)_1,\boldsymbol(x)_2) = \text{vector}\left((x_1,y_1,z_1),(x_2,y_2,z_2)\right).
+\text{vector}(\boldsymbol{x}_1,\boldsymbol{x}_2) = \text{vector}\left((x_1,y_1,z_1),(x_2,y_2,z_2)\right).
 $$
 
 If $\boldsymbol{A}$ is your vector field, each coordinate $\boldsymbol{x}$ will be moved to $\boldsymbol{x} + \boldsymbol{A}(\boldsymbol{x})$. We plot it in Desmos via
@@ -59,13 +59,17 @@ Enabling the vector field to animate was a key feature of my goal: seeing exactl
 This Taylor expansion of a multivariative scalar field $f(\boldsymbol{x})$ about a small number $ε$ looks like
 
 $$
-f(x+ε,y+ε,z+ε) = f(x,y,z) + ε\left(\frac{\partial f}{\partial x} + \frac{\partial f}{\partial y} + \frac{\partial f}{\partial z}\right) + \frac{ε^2}{2}\left(\frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2} + \frac{\partial^2 f}{\partial z^2} + 2\frac{\partial^2 f}{\partial x\partial y} + 2\frac{\partial f}{\partial y\partial z} + 2\frac{\partial f}{\partial z\partial x}\right) + \mathcal{O}(ε^3).
+f(x+ε,y+ε,z+ε) = f(x,y,z) + ε\left(\frac{\partial f}{\partial x} + \frac{\partial f}{\partial y} + \frac{\partial f}{\partial z}\right)
 $$
 
-Our vector field $\boldsymbol{A}$ is then three copies of the above, one for each $A_x,A_y,A_z$. The subtlely here, though, is that our zero-th order derivative is our coordiante $\boldsymbol(x)$. This makes sense because we are asking how much the coodinate changes from one to the next.
+$$
+\quad\quad\quad\quad+ \frac{ε^2}{2}\left(\frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2} + \frac{\partial^2 f}{\partial z^2} + 2\frac{\partial^2 f}{\partial x\partial y} + 2\frac{\partial^2 f}{\partial y\partial z} + 2\frac{\partial^2 f}{\partial z\partial x}\right) + \mathcal{O}(ε^3).
+$$
+
+Our vector field $\boldsymbol{A}$ is then three copies of the above, one for each $A_x,A_y,A_z$. The subtlely here, though, is that our zero-th order derivative is our coordiante $\boldsymbol{x}$. This makes sense because we are asking how much the coodinate changes from one to the next.
 Then, the first-order derivatives are our vector field components and so on.
 
-Desmos allows us to readily calculate derivatives. In the simulation below, in the *Taylor expansion* and *derivatives* folders, you can find the explicit way this is done. Each coordinate is now shifted by $ε$, and we can move the value of $ε$ or run it via the triangle on the left to see how the vector field moves.
+Desmos allows us to readily calculate derivatives. In the simulation below, in the **Taylor expansion** and **derivatives** folders, you can find the explicit way this is done. Each coordinate is now shifted by $ε$, and we can move the value of $ε$ or run it via the triangle on the left to see how the vector field moves.
 
 <iframe title="animated circular field" style="width:100%; height: 50vw;" src="https://www.desmos.com/3d/oi1u5enjno" frameborder="0"></iframe>
 
