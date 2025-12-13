@@ -202,6 +202,11 @@ ninja.data = [{
           description: "A quick link to my LinkedIn page.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/redirect/";
+            },},{id: "projects-magnetic-switchbacks",
+          title: 'Magnetic switchbacks',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/switchbacks/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
