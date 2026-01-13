@@ -161,6 +161,8 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 2. <a href="https://open.spotify.com/episode/7fyxxy8X0DBTz46F6TngXt?si=e2a8c685238841ee" style="color:#42b983;">P is for People... and Plankton</a> (with [Dr Rachel Oughton](https://www.durham.ac.uk/departments/academic/science/outreach-and-engagement/du-science-100/100-faces-of-science/uncertainty-quantification/rachel-oughton/))
 
+3. <a href="https://open.spotify.com/episode/1yBCRP7uke5p90XHv7tBrR?si=988bd72c6475449c" style="color:#42b983;">Taking the Pressure Off</a> (with [Dr Ric Crossman](https://www.durham.ac.uk/staff/richard-j-crossman/))
+
 ---
 
 *Our true fans will recognise the jingle change for each series.
