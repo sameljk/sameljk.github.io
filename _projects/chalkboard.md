@@ -163,6 +163,10 @@ Louie's favourite episode is a bit more serious, it's Episode #15, which was our
 
 3. <a href="https://open.spotify.com/episode/1yBCRP7uke5p90XHv7tBrR?si=988bd72c6475449c" style="color:#42b983;">Taking the Pressure Off</a> (with [Dr Ric Crossman](https://www.durham.ac.uk/staff/richard-j-crossman/))
 
+4. <a href="https://open.spotify.com/episode/1wtOYyB7T6ikftQFKkIwLF?si=19ad8d7320c84a08" style="color:#42b983;">The Value of Authentic Humour</a> (with [Dr Stephen Harrap](https://www.durham.ac.uk/staff/s-g-harrap/))
+
+5. <a href="https://open.spotify.com/episode/1zjlD0fHirMqXJDUWPfhC4?si=e8fd79b7a17643d1" style="color:#42b983;">My Legacy is Music</a> (with [Prof. Paul Sutcliffe](https://maths.dur.ac.uk/users/p.m.sutcliffe/index.html))
+
 ---
 
 *Our true fans will recognise the jingle change for each series.
