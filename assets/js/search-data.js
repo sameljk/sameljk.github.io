@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-chalkdust-dissertation-prize-winner-2025",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-04-19-debate-23/";
+          
+        },
+      },{id: "post-in-conversation-with-anne-skeldon",
+        
+          title: "In conversation with Anne Skeldon",
+        
+        description: "An interview I conducted for Chalkdust issue 23.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/anne-skeldon/";
+          
+        },
+      },{id: "post-chalkdust-dissertation-prize-winner-2025",
         
           title: "Chalkdust dissertation prize winner 2025",
         
@@ -186,6 +208,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-launched-issue-22-of-chalkdust-magazine",
           title: 'Launched Issue 22 of Chalkdust magazine.',
+          description: "",
+          section: "News",},{id: "news-launched-issue-23-of-chalkdust-magazine",
+          title: 'Launched Issue 23 of Chalkdust magazine.',
           description: "",
           section: "News",},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
