@@ -37,6 +37,6 @@ I also completed my MMath undergrad at Durham, studying courses that branch off 
 
 I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 
-I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candiates and lecturers about their research. The reins are now in the hands of [Cassia Pearce](/blog/2025/chalkboard-handover/).
+I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candidates and lecturers about their research. The reins are now in the hands of [Cassia Pearce](/blog/2025/chalkboard-handover/).
 
-During the summers I haved work as a counsellor at a children's summer camp in Pennsylvania, USA. I have been the lead pianist and keytar player in various bands, most recently in [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT).
+During the summers I have worked as a counsellor at a children's summer camp in Pennsylvania, USA. I have been the lead pianist and keytar player in various bands, most recently in [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT).

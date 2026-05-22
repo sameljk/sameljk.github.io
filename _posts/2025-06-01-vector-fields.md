@@ -11,7 +11,7 @@ thumbnail:
 > This really works best if you read with a visual aid.
 > My [vector field plots](https://sam-kay.com/desmos/) may help with that.
 
-We follow one of the simpler vector fields, like the one shown below. Clicking 'Run' in the top left corner will activite the simulation of the vector field
+We follow one of the simpler vector fields, like the one shown below. Clicking 'Run' in the top left corner will activate the simulation of the vector field
 
 $$
 \boldsymbol{A} = \sin(t)x\,\boldsymbol{e}_x + \sin(t)y\,\boldsymbol{e}_y + \cos(t)z\,\boldsymbol{e}_z,
@@ -56,7 +56,7 @@ For a first simple model, this is all you need!
 
 Enabling the vector field to animate was a key feature of my goal: seeing exactly _how_ the vectors are moving in parameter space. Due to Desmos' limited capability of treating vectors, we will use a second-order Taylor expansion model that will capture the main dynamics.
 
-This Taylor expansion of a multivariative scalar field $f(\boldsymbol{x})$ about a small number $ε$ looks like
+This Taylor expansion of a multivariate scalar field $f(\boldsymbol{x})$ about a small number $ε$ looks like
 
 $$
 f(x+ε,y+ε,z+ε) = f(x,y,z) + ε\left(\frac{\partial f}{\partial x} + \frac{\partial f}{\partial y} + \frac{\partial f}{\partial z}\right)

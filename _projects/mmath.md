@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MMath research project
-description: The Standard Model from a symmetry perspective.
+title: The Standard Model
+description:
 img: assets/img/projects/atomonium.jpg
 importance: 2
 category: research
@@ -38,7 +38,7 @@ The core aim of the report is to motivate the construction of the Standard Model
 
 Humankind has always been fascinated by what _stuff_ is made up of and the question dates back millennia. In our history there have been many schools of thought as how to describe matter with intuition.
 One initially successful idea led by Leucippus and Democritus proposed that matter is discrete, is made up of indivisible parts, named _atoms_.
-These were later, more aptly named _particles_, which would be held together by and interact via various forces. This theory carried us through classical physics and allowed for the discoveries of various particles, famoulsy the electron by Thompson, the proton by Rutherford and the neutron by Chadwick, etc.
+These were later, more aptly named _particles_, which would be held together by and interact via various forces. This theory carried us through classical physics and allowed for the discoveries of various particles, famously the electron by Thompson, the proton by Rutherford and the neutron by Chadwick, etc.
 
 Another successful approach didn't come until many centuries after, this being that matter could be continuously distributed; that there exist _fields_ permeating space that carry information such as mass, momentum, energy and spin.
 It is hard to pinpoint the origins of this idea exactly since many physicists in the early 20th century were working on this idea, but one notable person to highlight would be Louis de Broglie.
@@ -54,5 +54,5 @@ In this sense we have that the forces between particles are themselves particles
 ---
 
 As it turns out, both the particle and field descriptions of matter and forces are correct. But also neither description is correct. In Leonard Susskind's lecture series on the Standard Model he says ''there are subtleties in the study of quantum physics that satisfy both ideas, but leave some bits of either one unsatisfied''.
-It has therefore been desired for a long time for there to exist a natural connection between particles, fields and forces that unifiy all of the theories into one, beautiful <strong>theory of everything</strong>.
+It has therefore been desired for a long time for there to exist a natural connection between particles, fields and forces that unify all of the theories into one, beautiful <strong>theory of everything</strong>.
 

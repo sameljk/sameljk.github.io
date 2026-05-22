@@ -7,7 +7,7 @@ importance: 1
 category: outreach
 ---
 
-Chalkboard Ultra is a podcast that was ran by myself and [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) between October 2023 and July 2025. In that time we released 41 episodes plus two yearly hightlights from each academic year.
+Chalkboard Ultra is a podcast that was ran by myself and [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) between October 2023 and July 2025. In that time we released 41 episodes plus two yearly highlights from each academic year.
 
 > Listen to our podcast for free:
 >
@@ -32,7 +32,7 @@ To keep up with our schedule and uploads, you can give us a follow on [Instagram
 </div>
 
 The podcast started when we realised there was a barrier between students and lecturers at university; while they were teaching us content, their real research was hidden 'behind the chalkboard' so to speak.
-Louie and I decided to bring more light around their subjects and provide a space for them to talk about their research and, perhaps more generally, their jouney as an academic.
+Louie and I decided to bring more light around their subjects and provide a space for them to talk about their research and, perhaps more generally, their journey as an academic.
 
 We often wrote scripts for some of the 'filler' episodes, which span a variety of maths-related things we find interesting. These include the infinite monkey theorem, how time travel really _is_ possible and why some people believe that numbers can decide our fate.
 During the first year of the podcast we invited a lot of our friends on to talk about some interesting parts of research they have done for their degrees. This continued in its second year, though with more focus on conversations with lecturers and PhD students.
