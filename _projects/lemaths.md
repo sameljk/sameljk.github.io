@@ -27,6 +27,7 @@ The event has run five times since 2021 and has partnered with [Point North](htt
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/lemaths5.jpg" title="the leaderboard" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 <div class="caption">
     Some of the question writers and the full leaderboard at the end of the event.
 </div>
@@ -40,6 +41,7 @@ You can follow the archived journey on our [Instagram page](https://www.instagra
 This year we decided to hand out prizes for more silly things than just first, second and third place.
 
 The degree of Dedication to Sleep Deprivation was awarded to:
+
 <ul>
 <li>**Dan Yabsley** with First Class Honours</li>
 <li>**The Three Dimensions** with Second Class (Division One) Honours</li>
