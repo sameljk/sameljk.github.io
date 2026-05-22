@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-what-39-s-the-better-number-6-or-7",
         
-          title: "",
+          title: "What&#39;s the better number... 6 or 7?",
         
-        description: "",
+        description: "A regular I wrote against the Chalkdust team for Chalkdust issue 23.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-19-debate-23/";
+            window.location.href = "/blog/2026/debate-23/";
           
         },
       },{id: "post-in-conversation-with-anne-skeldon",
@@ -222,16 +222,21 @@ ninja.data = [{
           description: "A magazine for the mathematically curious.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkdust/";
-            },},{id: "projects-mmath-research-project",
-          title: 'MMath research project',
-          description: "The Standard Model from a symmetry perspective.",
+            },},{id: "projects-city-of-maths",
+          title: 'City of Maths',
+          description: "Ready to discover a different side to maths?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cityofmaths/";
+            },},{id: "projects-24-hours-of-le-maths",
+          title: '24 Hours of Le Maths',
+          description: "A maths-based endurance event for charity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lemaths/";
+            },},{id: "projects-the-standard-model",
+          title: 'The Standard Model',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmath/";
-            },},{id: "projects-linkedin",
-          title: 'LinkedIn',
-          description: "A quick link to my LinkedIn page.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/redirect/";
             },},{id: "projects-magnetic-switchbacks",
           title: 'Magnetic switchbacks',
           description: "",
