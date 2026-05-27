@@ -2,7 +2,7 @@
 layout: page
 title: 24 Hours of Le Maths
 description: A maths-based endurance event for charity.
-img: assets/img/projects/lemaths.pdf
+img: assets/img/projects/lemaths.png
 importance: 3
 category: outreach
 ---
@@ -40,12 +40,12 @@ You can follow the archived journey on our [Instagram page](https://www.instagra
 
 This year we decided to hand out prizes for more silly things than just first, second and third place.
 
-The degree of Dedication to Sleep Deprivation was awarded to:
+The degree of **Dedication to Sleep Deprivation** was awarded to:
 
 <ul>
-<li>**Dan Yabsley** with First Class Honours</li>
-<li>**The Three Dimensions** with Second Class (Division One) Honours</li>
-<li>**$\mathrm{i}8\Sigma\pi$** with Second Class (Division Two) Honours</li>
+<li> **Dan Yabsley** with First Class Honours</li>
+<li> **The Three Dimensions** with Second Class (Division One) Honours</li>
+<li> **$\mathrm{i}8\Sigma\pi$** with Second Class (Division Two) Honours</li>
 </ul>
 
 The *Uptown Funke** award was presented to **Heisenbob Gongerpants** for their valuable contributions towards raising money for Point North, and in doing so have enriched the lives of those in need.

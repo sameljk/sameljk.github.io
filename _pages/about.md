@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematician. Mathematics outreach and communication. Freelance musician.
+subtitle: Mathematician | Mathematics outreach and communication | Freelance musician
 
 profile:
   align: right
