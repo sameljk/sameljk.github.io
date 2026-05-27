@@ -19,7 +19,7 @@ My dissertation will be published here as a series of lecture notes in due cours
 
 > ## PDFs
 >
-> Click <strong>[here](https://sam-kay.com/assets/pdf/samkay-dissertation.pdf)</strong> for a PDF of the dissertation.
+> Click <strong>[here](https://sam-kay.com/assets/pdf/samkay_dissertation.pdf)</strong> for a PDF of the dissertation.
 >
 > Click <strong>[here](https://sam-kay.com/assets/pdf/dissertation-poster.pdf)</strong> for a PDF of a poster I made about spontaneous symmetry breaking.
 
@@ -28,7 +28,7 @@ My dissertation will be published here as a series of lecture notes in due cours
         {% include figure.liquid loading="eager" path="assets/img/projects/standardmodel.png" title="the standard model" class="img-fluid rounded z-depth-1" style="width:100%; height: 50vw;" %}
     </div>
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/dissertation-poster" title="poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/pdf/dissertation-poster.pdf" title="poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
