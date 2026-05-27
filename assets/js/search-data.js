@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "What&#39;s the better number... 6 or 7?",
         
-        description: "A regular I wrote against the Chalkdust team for Chalkdust issue 23.",
+        description: "A regular I wrote against... myself (?) for Chalkdust issue 23.",
         section: "Posts",
         handler: () => {
           
