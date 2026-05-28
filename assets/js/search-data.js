@@ -242,8 +242,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/switchbacks/";
-            },},{id: "switchbacks-model-flythrough",
-          title: 'Model flythrough',
+            },},{id: "switchbacks-model-fly-through",
+          title: 'Model fly-through',
           description: "",
           section: "Switchbacks",handler: () => {
               window.location.href = "/switchbacks/flythrough/";
