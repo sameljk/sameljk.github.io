@@ -19,7 +19,7 @@ When and if new space missions are launched, we better hope that they are protec
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/gif/switchbacks.gif" class="img-fluid rounded z-depth-1" autoplay=true %}
+        {% include video.liquid path="assets/video/gif/switchbacks-sun-web.webp" class="img-fluid rounded z-depth-1" autoplay=true %}
     </div>
 </div>
 <div class="caption">
