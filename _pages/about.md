@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Mathematician | Mathematics outreach and communication | Freelance musician
 
