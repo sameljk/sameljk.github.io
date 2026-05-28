@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -242,6 +242,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/switchbacks/";
+            },},{id: "switchbacks-model-flythrough",
+          title: 'Model flythrough',
+          description: "",
+          section: "Switchbacks",handler: () => {
+              window.location.href = "/switchbacks/flythrough/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
