@@ -5,7 +5,7 @@ permalink: /switchbacks/
 description: Some work on magnetic switchbacks.
 nav: false
 nav_order: 1
-display_categories: [models]
+display_categories: [conference tools,models]
 horizontal: false
 ---
 
