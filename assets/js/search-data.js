@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing catelogue of projects that I am working on or have worked on previously.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "A page for my teaching and tutoring.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -166,14 +166,9 @@ ninja.data = [{
               window.location.href = "/desmos/cartesian-vector-field/";
             },},{id: "desmos-curl-of-a-field",
           title: 'curl of a field',
-          description: "Remember Fleming&#39;s right-hand rule?",
+          description: "",
           section: "Desmos",handler: () => {
               window.location.href = "/desmos/curl-of-a-field/";
-            },},{id: "desmos-cylindrical-switchback-solution",
-          title: 'Cylindrical switchback solution',
-          description: "A solution for a magnetic switchback that is cylindrically symmetric.",
-          section: "Desmos",handler: () => {
-              window.location.href = "/desmos/cylindrical-switchback/";
             },},{id: "desmos-in-cylindrical-coordinates",
           title: 'in cylindrical coordinates',
           description: "Good for pipe flows, flow past a cylinder, or anything axisymmetric.",
@@ -214,22 +209,22 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-chalkboard-ultra-podcast",
           title: 'Chalkboard Ultra podcast',
-          description: "A podcast investigating the most interesting concepts, problems and people in all of mathematics.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkboard/";
             },},{id: "projects-chalkdust-magazine",
           title: 'Chalkdust magazine',
-          description: "A magazine for the mathematically curious.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chalkdust/";
             },},{id: "projects-city-of-maths",
           title: 'City of Maths',
-          description: "Ready to discover a different side to maths?",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cityofmaths/";
             },},{id: "projects-24-hours-of-le-maths",
           title: '24 Hours of Le Maths',
-          description: "A maths-based endurance event for charity.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lemaths/";
             },},{id: "projects-the-standard-model",
