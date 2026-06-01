@@ -1,7 +1,7 @@
 ---
 layout: page
 title: curl of a field
-description: Remember Fleming's right-hand rule?
+description:
 img: assets/img/desmos/curl-field.png
 importance: 4
 category: vector fields

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing catelogue of projects that I am working on or have worked on previously.
+description:
 nav: true
 nav_order: 1
 display_categories: [research, outreach]

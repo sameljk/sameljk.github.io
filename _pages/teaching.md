@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A page for my teaching and tutoring.
+description:
 nav: true
 nav_order: 3
 ---

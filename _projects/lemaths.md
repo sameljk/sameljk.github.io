@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 24 Hours of Le Maths
-description: A maths-based endurance event for charity.
+description:
 img: assets/img/projects/lemaths.png
 importance: 3
 category: outreach
