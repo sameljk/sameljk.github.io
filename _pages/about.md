@@ -31,7 +31,7 @@ latest_posts:
 
 ---
 
-I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind. Project specifics: [here](/projects/#research).
+I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind---in particular, the formation and evolution of [magnetic switchbacks](/projects/#research): the sharp, S-shaped kinks that appear in the Sun's magnetic field as it streams outward, first seen in detail by Parker Solar Probe (PSP).
 
 I also completed my MMath undergrad at Durham, studying courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT). My dissertation investigated the [construction of the Standard Model](/projects/mmath/) via spontaneous symmetry breaking.
 
