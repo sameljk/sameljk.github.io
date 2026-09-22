@@ -232,6 +232,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmath/";
+            },},{id: "projects-pandurs",
+          title: 'PANDURS',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pandurs/";
             },},{id: "projects-magnetic-switchbacks",
           title: 'Magnetic switchbacks',
           description: "",
