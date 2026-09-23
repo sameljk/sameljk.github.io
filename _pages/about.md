@@ -33,8 +33,6 @@ latest_posts:
 
 I am a PhD student in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University, working on structures in the solar wind---in particular, the formation and evolution of [magnetic switchbacks](/projects/#research): the sharp, S-shaped kinks that appear in the Sun's magnetic field as it streams outward, first seen in detail by Parker Solar Probe (PSP).
 
-I also completed my MMath undergrad at Durham, studying courses that branch off macroscopic-level fluid dynamics and quantum field theory (QFT). My dissertation investigated the [construction of the Standard Model](/projects/mmath/) via spontaneous symmetry breaking.
-
 I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 
 I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candidates and lecturers about their research. The reins are now in the hands of [Cassia Pearce](/blog/2025/chalkboard-handover/).

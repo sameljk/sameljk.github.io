@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+---
+
 ## Durham University
 
 I am a teaching assistant for:
@@ -31,7 +33,14 @@ I offer one-to-one maths tutoring for GCSE, A-Level (all exam boards) and first-
 
 I spent four years with the online tutoring company [MyTutor](http://mytutor.co.uk) before moving to a self-sufficient, word-of-mouth basis; pricing is generally lower than agency rates, and sessions are shaped around what matters to a specific individual rather than a fixed curriculum.
 
-#### What students and parents have been saying
+> <strong>Rates and availability</strong>
+>
+> Currently taking on new students for the term. Please get in touch for current rates.
+> 
+
+For enquiries, email <a href='mailto:samkay.tutoring@gmail.com'>samkay.tutoring[at]gmail.com</a> with a quick note on the subject, level and what you're looking for help with. Existing MyTutor bookings can still [go through the platform](https://www.mytutor.co.uk/tutors/2839462/).
+
+---
 
 > ★★★★★
 >
@@ -47,9 +56,3 @@ I spent four years with the online tutoring company [MyTutor](http://mytutor.co.
 
 
 
-> <strong>Rates and availability</strong>
->
-> Currently taking on new students for the term. Please get in touch for current rates.
-> 
-
-For enquiries, email <a href='mailto:samkay.tutoring@gmail.com'>samkay.tutoring[at]gmail.com</a> with a quick note on the subject, level and what you're looking for help with. Existing MyTutor bookings can still [go through the platform](https://www.mytutor.co.uk/tutors/2839462/).
