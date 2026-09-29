@@ -290,13 +290,6 @@ ninja.data = [{
           window.open("https://open.spotify.com/user/31bth3hr37bn5ezxek6yrz3cke2i", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
