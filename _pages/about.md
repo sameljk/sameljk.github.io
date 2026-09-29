@@ -19,12 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -35,6 +35,6 @@ I am a PhD student in the [Department of Mathematical Sciences](https://www.durh
 
 I write and help produce the maths magazine [Chalkdust](https://chalkdustmagazine.com); I have written a number of articles [as myself](https://chalkdustmagazine.com/author/sam-kay/) and as the cryptic crossword setter [Seuss](https://chalkdustmagazine.com/category/regulars/cryptic/).
 
-I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candidates and lecturers about their research. The reins are now in the hands of [Cassia Pearce](/blog/2025/chalkboard-handover/).
+I co-hosted the popular maths podcast [Chalkboard Ultra](/projects/chalkboard/), where [Louie Leventhall](https://www.linkedin.com/in/louie-leventhall/) and I talked about cool (!) concepts in maths and chatted to PhD candidates and lecturers about their research.
 
 During the summers I have worked as a counsellor at a children's summer camp in Pennsylvania, USA. I have been the lead pianist and keytar player in various bands, most recently in [Quantum Funk Theory](https://www.instagram.com/thequantumfunktheory/) (QFT).
